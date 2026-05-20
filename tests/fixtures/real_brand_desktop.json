@@ -1,0 +1,489 @@
+{
+  "search_metadata": {
+    "id": "6a0deec2e82707673786028e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/UM613gTE75m3IPGVwTDd5w/6a0deec2e82707673786028e.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/UM613gTE75m3IPGVwTDd5w/6a0deec2e82707673786028e.json_with_pixel_position",
+    "created_at": "2026-05-20 17:26:26 UTC",
+    "processed_at": "2026-05-20 17:26:26 UTC",
+    "google_url": "https://www.google.com/search?q=kauai+shores+hotel&oq=kauai+shores+hotel&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/UM613gTE75m3IPGVwTDd5w/6a0deec2e82707673786028e.html",
+    "total_time_taken": 2.52
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "kauai shores hotel",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "kauai shores hotel",
+    "total_results": 126,
+    "time_taken_displayed": 0.37,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "bottom",
+      "title": "Kauai Shores Hotel\u2122",
+      "link": "https://www.kauaishoreshotel.com/",
+      "displayed_link": "https://www.kauaishoreshotel.com",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPVyRrmSJvv9X_5YjLiEUuAIo5AJiFpJjQc_J4=w92-h92-n-k-no",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjSwa3EsciUAxV9MggFHaLDJDAYACICCAIQERoCbWQ&co=1&ase=2&gclid=EAIaIQobChMI0sGtxLHIlAMVfTIIBR2iwyQwEAMYASAKEgK86vD_BwE&cid=CAASuwHkaChOq2A88f68Werk0RqNUvDE1sEhbQRiWjUBeB2Bl4jg6nVAaB65zM2aL0xYz1KHb6w883adZJ_LlseZYLFxxs8UatMS_ILPqEgFxd8N7BHqtxg-HqeuCWaXcuXuyzpqM-F22G6HaNHDxkRWNalMN6H8NyazUcvtumvLTCE4VfZ-y-hRQBgLeNyFaiaTXKEilYPYgB_e-QNjk9ykR4s2F6GeCdPMoLkbjA9nePklroFk0BL5lg6HAhNM&cce=2&category=acrcp_v1_32&sig=AOD64_1YGAt8r0YTg0r7kdRD2bLgesY0Jg&q=&nis=4&ved=2ahUKEwjlj6PEsciUAxWOkYkEHe2-G8kQh78CegQIfhAB&adurl=",
+      "description": "Wake Up and Enjoy Ocean Views \u2014 Relax by the beach, enjoy nightly live music, and take in island sunsets from your lanai. Enjoy 15% off your stay through March 2027. Book direct for the best rate. Bell Service. Beachfront Hotel.",
+      "source": "Kauai Shores Hotel",
+      "sitelinks": [
+        {
+          "title": "Save 15% Off This Spring",
+          "link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjSwa3EsciUAxV9MggFHaLDJDAYACICCAIQMRoCbWQ&co=1&ase=2&gclid=EAIaIQobChMI0sGtxLHIlAMVfTIIBR2iwyQwEAMYASAnEgKgNvD_BwE&cid=CAASuwHkaChOq2A88f68Werk0RqNUvDE1sEhbQRiWjUBeB2Bl4jg6nVAaB65zM2aL0xYz1KHb6w883adZJ_LlseZYLFxxs8UatMS_ILPqEgFxd8N7BHqtxg-HqeuCWaXcuXuyzpqM-F22G6HaNHDxkRWNalMN6H8NyazUcvtumvLTCE4VfZ-y-hRQBgLeNyFaiaTXKEilYPYgB_e-QNjk9ykR4s2F6GeCdPMoLkbjA9nePklroFk0BL5lg6HAhNM&cce=2&category=acrcp_v1_32&sig=AOD64_3R22-EBJW4yOMrkYnrPiefNFp8Mw&adurl=&q="
+        },
+        {
+          "title": "Special Offers",
+          "link": "https://www.kauaishoreshotel.com/specials"
+        },
+        {
+          "title": "Special Kama\u2018aina Rate",
+          "link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjSwa3EsciUAxV9MggFHaLDJDAYACICCAIQBBoCbWQ&co=1&ase=2&gclid=EAIaIQobChMI0sGtxLHIlAMVfTIIBR2iwyQwEAMYASADEgIoa_D_BwE&cid=CAASuwHkaChOq2A88f68Werk0RqNUvDE1sEhbQRiWjUBeB2Bl4jg6nVAaB65zM2aL0xYz1KHb6w883adZJ_LlseZYLFxxs8UatMS_ILPqEgFxd8N7BHqtxg-HqeuCWaXcuXuyzpqM-F22G6HaNHDxkRWNalMN6H8NyazUcvtumvLTCE4VfZ-y-hRQBgLeNyFaiaTXKEilYPYgB_e-QNjk9ykR4s2F6GeCdPMoLkbjA9nePklroFk0BL5lg6HAhNM&cce=2&category=acrcp_v1_32&sig=AOD64_0u8By2yEhYwPOFAAj8v1Hfls9e4g&adurl=&q="
+        },
+        {
+          "title": "Book Early & Save 15%",
+          "link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjSwa3EsciUAxV9MggFHaLDJDAYACICCAIQBRoCbWQ&co=1&ase=2&gclid=EAIaIQobChMI0sGtxLHIlAMVfTIIBR2iwyQwEAMYASAEEgIaMPD_BwE&cid=CAASuwHkaChOq2A88f68Werk0RqNUvDE1sEhbQRiWjUBeB2Bl4jg6nVAaB65zM2aL0xYz1KHb6w883adZJ_LlseZYLFxxs8UatMS_ILPqEgFxd8N7BHqtxg-HqeuCWaXcuXuyzpqM-F22G6HaNHDxkRWNalMN6H8NyazUcvtumvLTCE4VfZ-y-hRQBgLeNyFaiaTXKEilYPYgB_e-QNjk9ykR4s2F6GeCdPMoLkbjA9nePklroFk0BL5lg6HAhNM&cce=2&category=acrcp_v1_32&sig=AOD64_3LAibwqsZuUr0TdfzGBJGAgqv65Q&adurl=&q="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "block_position": "bottom",
+      "title": "Book Kauai Shores Hotel, Kapaa",
+      "link": "https://www.expedia.com/Hotel-Search?selected=9733&startDate=2026-05-25&endDate=2026-05-26&SL=TFSA&mctc=10&ct=hotel&mpg=USD&mpf=298.02&mpj=76.99&mpr=30.02&mpl=USD&exp_pg=google&langid=en&ad=2&tp=&utm_source=google&utm_medium=cpc&utm_term=9733&utm_content=localuniversal&utm_campaign=HotelAds&langid=1033&adults=2&children=&rateplanid=203278393&mpm=24&mpn=200669636&mpo=EC&mpp=1",
+      "displayed_link": "https://www.expedia.com/hotel/kapaa",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQtGNb6DoA5dmSnISgyl1Wo-WixebKgSBH2dgpvSh925lffr5SL8ijQgO8og&s",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjSwa3EsciUAxV9MggFHaLDJDAYACICCAIQFhoCbWQ&co=1&ase=2&gclid=EAIaIQobChMI0sGtxLHIlAMVfTIIBR2iwyQwEAMYAiAGEgJZVPD_BwE&cid=CAASuwHkaChOq2A88f68Werk0RqNUvDE1sEhbQRiWjUBeB2Bl4jg6nVAaB65zM2aL0xYz1KHb6w883adZJ_LlseZYLFxxs8UatMS_ILPqEgFxd8N7BHqtxg-HqeuCWaXcuXuyzpqM-F22G6HaNHDxkRWNalMN6H8NyazUcvtumvLTCE4VfZ-y-hRQBgLeNyFaiaTXKEilYPYgB_e-QNjk9ykR4s2F6GeCdPMoLkbjA9nePklroFk0BL5lg6HAhNM&cce=2&category=acrcp_v1_32&sig=AOD64_07WvL8xa3kk7E7ktffG18j0EGOZg&nis=4&adurl",
+      "rating": 4.4,
+      "reviews": 2400,
+      "description": "Reviewers Love: Comfy Rooms \u2014 Check Availability for Kauai Shores Hotel, Kapaa. View Most Popular Amenities. Guests Love the...",
+      "source": "Expedia",
+      "sitelinks": [
+        {
+          "title": "Property Photos",
+          "link": "https://www.expedia.com/h%7B_hotelid%7D.Hotel-Information?locale=en_US&siteid=1&sl=ppp"
+        },
+        {
+          "title": "Guest Reviews",
+          "link": "https://www.expedia.com/h%7B_hotelid%7D.Hotel-Information?locale=en_US&siteid=1&sl=gur"
+        },
+        {
+          "title": "Breakfast Available",
+          "link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjSwa3EsciUAxV9MggFHaLDJDAYACICCAIQGRoCbWQ&co=1&ase=2&gclid=EAIaIQobChMI0sGtxLHIlAMVfTIIBR2iwyQwEAMYAiAHEgLhePD_BwE&cid=CAASuwHkaChOq2A88f68Werk0RqNUvDE1sEhbQRiWjUBeB2Bl4jg6nVAaB65zM2aL0xYz1KHb6w883adZJ_LlseZYLFxxs8UatMS_ILPqEgFxd8N7BHqtxg-HqeuCWaXcuXuyzpqM-F22G6HaNHDxkRWNalMN6H8NyazUcvtumvLTCE4VfZ-y-hRQBgLeNyFaiaTXKEilYPYgB_e-QNjk9ykR4s2F6GeCdPMoLkbjA9nePklroFk0BL5lg6HAhNM&cce=2&category=acrcp_v1_32&sig=AOD64_2ccHL1Z3GZNgeDhY_jrp35R6GqPQ&adurl=&q="
+        },
+        {
+          "title": "Things to See Nearby",
+          "link": "https://www.expedia.com/h%7B_hotelid%7D.Hotel-Information?locale=en_US&siteid=1&sl=tsn"
+        },
+        {
+          "title": "Last Minute Deals",
+          "link": "https://www.expedia.com/deals/last-minute?locale=en_US&siteid=1&sl=lmd"
+        }
+      ]
+    }
+  ],
+  "knowledge_graph": {
+    "title": "Kauai Shores Hotel",
+    "entity_type": "hotels",
+    "kgmid": "/g/1tg35fft",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/1tg35fft&hl=en-US&q=Kauai+Shores+Hotel",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fg%2F1tg35fft&q=Kauai+Shores+Hotel",
+    "place_id": "ChIJm1J66UvgBnwRkWpVMYHWotA",
+    "website": "http://www.kauaishoreshotel.com/?utm_source=google&utm_medium=local&utm_campaign=gmb_listing",
+    "availability": "https://www.google.com/travel/search?g2lb=4965990,72471280,72560029,72573224,72647020,72686036,72803964,72882230,73059275,73064764,73249147,121608705,121641910&hl=en-US&gl=us&ssta=1&q=kauai+shores+hotel&ts=CAEaRwopEicyJTB4N2MwNmUwNGJlOTdhNTI5YjoweGQwYTJkNjgxMzE1NTZhOTESGhIUCgcI6g8QBRgZEgcI6g8QBRgaGAEyAhAA&qs=CAEyFENnc0lrZFhWaXBQUXRkSFFBUkFCOAJCCQmRalUxgdai0EIJCZFqVTGB1qLQ&ap=ugEGcHJpY2Vz&ictx=111",
+    "description": "Colorful rooms with island-style decor have private terraces or balconies. All come with 42-inch flat-screen TVs, ceiling fans, minifridges and WiFi (resort fee). Suites with kitchenettes are also available. Some quarters have views of the mountains or the ocean.There are 2 outdoor pools and a business center. A resort fee covers the use of beach towels and chairs, plus outdoor yoga classes and parking.",
+    "rating": 4.4,
+    "review_count": 2353,
+    "star_type": "3-star hotel",
+    "address": "420 Papaloa Rd, Kapa\u02bba, HI 96746",
+    "address_links": [
+      {
+        "text": "Address",
+        "link": "https://www.google.com/search?sca_esv=b05b86de3d8e65b9&hl=en&gl=us&q=kauai+shores+hotel+address&ludocid=15033814356482943633&sa=X&ved=2ahUKEwjlj6PEsciUAxWOkYkEHe2-G8kQ6BN6BAgrEAI"
+      }
+    ],
+    "phone": "(808) 822-4951",
+    "pricing": {
+      "for_date": {
+        "start": "",
+        "end": "Mon, May 25"
+      },
+      "offers": [
+        {
+          "source": "Booking.com",
+          "price": "$273",
+          "link": "https://www.google.com/url?q=https://www.google.com/aclk?sa%3Dl%26ai%3DDChsSEwjSwa3EsciUAxV9MggFHaLDJDAYACICCAEQBBoCbWQ%26co%3D1%26ase%3D2%26gclid%3DEAIaIQobChMI0sGtxLHIlAMVfTIIBR2iwyQwEAoYASABEgKTnvD_BwE%26cid%3DCAASuwHkaChOq2A88f68Werk0RqNUvDE1sEhbQRiWjUBeB2Bl4jg6nVAaB65zM2aL0xYz1KHb6w883adZJ_LlseZYLFxxs8UatMS_ILPqEgFxd8N7BHqtxg-HqeuCWaXcuXuyzpqM-F22G6HaNHDxkRWNalMN6H8NyazUcvtumvLTCE4VfZ-y-hRQBgLeNyFaiaTXKEilYPYgB_e-QNjk9ykR4s2F6GeCdPMoLkbjA9nePklroFk0BL5lg6HAhNM%26category%3Dacrcp_v1_48%26sig%3DAOD64_25s79hKhrToP2W9y_NCxH2HasFHQ%26adurl%26nis%3D4"
+        },
+        {
+          "source": "Tripadvisor.com",
+          "price": "$251",
+          "link": "https://www.google.com/url?q=https://www.google.com/aclk?sa%3Dl%26ai%3DDChsSEwjSwa3EsciUAxV9MggFHaLDJDAYACICCAEQBRoCbWQ%26co%3D1%26ase%3D2%26gclid%3DEAIaIQobChMI0sGtxLHIlAMVfTIIBR2iwyQwEAoYAiABEgKWJPD_BwE%26cid%3DCAASuwHkaChOq2A88f68Werk0RqNUvDE1sEhbQRiWjUBeB2Bl4jg6nVAaB65zM2aL0xYz1KHb6w883adZJ_LlseZYLFxxs8UatMS_ILPqEgFxd8N7BHqtxg-HqeuCWaXcuXuyzpqM-F22G6HaNHDxkRWNalMN6H8NyazUcvtumvLTCE4VfZ-y-hRQBgLeNyFaiaTXKEilYPYgB_e-QNjk9ykR4s2F6GeCdPMoLkbjA9nePklroFk0BL5lg6HAhNM%26category%3Dacrcp_v1_48%26sig%3DAOD64_0hyGx_FFqpHBFOv5iSCyCrL1cbCg%26adurl%26nis%3D4"
+        },
+        {
+          "source": "Expedia.com",
+          "price": "$251",
+          "link": "https://www.google.com/url?q=https://www.google.com/aclk?sa%3Dl%26ai%3DDChsSEwjSwa3EsciUAxV9MggFHaLDJDAYACICCAEQBhoCbWQ%26co%3D1%26ase%3D2%26gclid%3DEAIaIQobChMI0sGtxLHIlAMVfTIIBR2iwyQwEAoYAyABEgJ5iPD_BwE%26cid%3DCAASuwHkaChOq2A88f68Werk0RqNUvDE1sEhbQRiWjUBeB2Bl4jg6nVAaB65zM2aL0xYz1KHb6w883adZJ_LlseZYLFxxs8UatMS_ILPqEgFxd8N7BHqtxg-HqeuCWaXcuXuyzpqM-F22G6HaNHDxkRWNalMN6H8NyazUcvtumvLTCE4VfZ-y-hRQBgLeNyFaiaTXKEilYPYgB_e-QNjk9ykR4s2F6GeCdPMoLkbjA9nePklroFk0BL5lg6HAhNM%26category%3Dacrcp_v1_48%26sig%3DAOD64_1XAxjpt18daJzAS07yQk64DKARCw%26adurl%26nis%3D4"
+        },
+        {
+          "source": "Kauai Shores Hotel",
+          "price": "$250",
+          "link": "https://www.google.com/url?q=https://www.google.com/aclk?sa%3Dl%26ai%3DDChsSEwjSwa3EsciUAxV9MggFHaLDJDAYACICCAEQBxoCbWQ%26co%3D1%26ase%3D2%26gclid%3DEAIaIQobChMI0sGtxLHIlAMVfTIIBR2iwyQwEAoYBCABEgLIkfD_BwE%26cid%3DCAASuwHkaChOq2A88f68Werk0RqNUvDE1sEhbQRiWjUBeB2Bl4jg6nVAaB65zM2aL0xYz1KHb6w883adZJ_LlseZYLFxxs8UatMS_ILPqEgFxd8N7BHqtxg-HqeuCWaXcuXuyzpqM-F22G6HaNHDxkRWNalMN6H8NyazUcvtumvLTCE4VfZ-y-hRQBgLeNyFaiaTXKEilYPYgB_e-QNjk9ykR4s2F6GeCdPMoLkbjA9nePklroFk0BL5lg6HAhNM%26category%3Dacrcp_v1_48%26sig%3DAOD64_1SgJeC0dV61UJKKj14DYcLqG45Sg%26adurl%26nis%3D4"
+        },
+        {
+          "source": "Kauai Shores Hotel",
+          "price": "$250",
+          "link": "https://www.google.com/travel/clk?pc=AA80Oswo70jK3LBbAs7AkS_N_02z3xJf7c25VqhSazwjKt8j0tgJsQC4Z5-PbH1fjBZ7nUQPN_hU4SeXrZTya35EfBWcWyFMO4NDNqe2Ah414bdPbT9JZTwSmlUVIlW0xKEWzNx91Eo0BX0l9jcflsQgIMvlW8lL6nhiMHi0RC6JtO1_e0s6V82ppddOluyUhLgy&pcurl=https://onboard.triptease.io/redirect?checkin%3D2026-05-25%26checkout%3D2026-05-26%26adults%3D2%26children%3D0%26currency%3DUSD%26tt_currency%3DUSD%26language%3Den%26apiKey%3Dca68ede44d54183ead1e4642e110c22f078b83bc%26tt_meta%3Dgha%26tt_ad_type%3Dfree%26tt_meta_price%3D296.95_76.80_30.00%26rateCode%3DSPRING%26tt_clsrc%3D%26tt_cid%3D%26&s=AD1XQnklMTKZh0Z5ORr-xVgJt7cZ"
+        },
+        {
+          "source": "Super.com",
+          "price": "$215",
+          "link": "https://www.google.com/travel/clk?pc=AA80Osz_QIVHGrOhX9npHwWchA7XP7gppAQFieoMO60eaqotFHYYO27p7E5hqiPt6vGXSq1Hpvq81arWoLlZy-YdlxjqEl76M-Jy26pONnPuYHvaukEEIQK8Y5NsHGpwqc4goigLUAAfSFdOdW6CXFlRbjkRwhNLeUnbR4akVy_erg5fxQFDs3LqsCGljw&pcurl=https://www.super.com/travel/transition/?data%3Dprice%3D184.55%2526total_price%3D219.08%2526retail_price%3D220.18%2526retail_total_price%3D261.37%2526surcharge%3D30.0%2526surcharge_tax%3D5.61%2526request_id%3D11885484813253752832%2526ps%3D704737293624952%2526pp%3D-tDZB0Sbv7MLAW-u7xDnWg%2526pb%3D1serfzxsq-sE7N_ip0oXzYqgPyaxakXFKvle01dHROvHgbHUQNz8G6Vsu6g2bdcEVE2TkX_UySPknbFEUIUPdKgH5m46Pl88BRXOv2D8YCr4Q5tNamSPo7BQ2iyC5hBLUbK1ILD2OGZj5RkbjL0X9HjOXb2qqW8qlWjWO-rj2OFoo3y-aKrUExSv9Tkc7eaT0FxnJ1R5dnqoZs3J5Cse-LuyTZX38Rt-D-85yk4P9_G8K_uFYwjyJjcj3yu3qxVgRpwsa-zmjqsTJuipvqWNHffD7-BWIeyjR17X_54yrgdv4VbYryovcGQV0HJpVkVsNBbBvGGOP29GFXIFnweY4JyjEQm6cReulgOIIWm4STqWjZlWeGlBrbkjDP8WtoNogC6Bz3LOIUOxWditnESMsw%25253D%25253D%2526gha_pull_request%3DTrue%2526rtp%3DSdTUqdR7wIew8aRS9esAtw%25253D%25253D%2526risk_lk_1%3Dtrue%2526alwd_risk%3Dfalse%2526alwd_rand%3Dfalse%2526gt%3D1779297159%2526sg%3DTwatV%2526sid%3DGHA_MD4%2526cmab_id%3D12%2526ttl_bkt%3Dnone%2526ib%3Dfalse%2526all_inclusive%3Dfalse%26utm_source%3Dgha%26utm_content%3Dlocaluniversal%26currency%3DUSD%26user_country%3DUS%26verification%3Dfalse%26rate_rule_ids%3D%26date_type%3Ddefault%26rate_rule_id%3Dsignedout_desktop%26display_currency%3DUSD%26display_all_inclusive_price%3D254.69%26checkin_at%3D2026-05-25%26checkout_at%3D2026-05-26%26provider_hotel_id%3D10006043051%26provider%3Dean%26num_adults%3D2%26children%3D%5B%5D%26hotel_campaign%3D%26utm_campaign%3D%26user_locale%3Den-US%26user_list_id%3D%26utm_medium%3Dorganic%26utm_id%3Dgha_organic&s=AD1XQnnK_0LXSpgDzUfChXm19oaj"
+        }
+      ]
+    },
+    "unclaimed_listing": true,
+    "web_results": [
+      {
+        "link": "https://www.google.com/maps/place/kauai+shores+hotel/data=!4m2!3m1!1s0x7c06e04be97a529b:0xd0a2d68131556a91?sa=X&ved=2ahUKEwjlj6PEsciUAxWOkYkEHe2-G8kQ8gF6BAgYEAA&hl=en&gl=us"
+      },
+      {
+        "title": "Nightly price with fees$250Mon, May 25 - Tue, May 26View 29 more",
+        "link": "https://www.google.com/travel/search?g2lb=4965990,72471280,72560029,72573224,72647020,72686036,72803964,72882230,73059275,73064764,73249147,121608705,121641910&hl=en-US&gl=us&ssta=1&q=kauai+shores+hotel&ts=CAEaRwopEicyJTB4N2MwNmUwNGJlOTdhNTI5YjoweGQwYTJkNjgxMzE1NTZhOTESGhIUCgcI6g8QBRgZEgcI6g8QBRgaGAEyAhAA&qs=CAEyFENnc0lrZFhWaXBQUXRkSFFBUkFCOAJCCQmRalUxgdai0EIJCZFqVTGB1qLQ&ap=ugEGcHJpY2Vz&ictx=111&ved=1t:196224"
+      },
+      {
+        "title": "Reviews",
+        "rating": 4.4,
+        "reviews": 2400,
+        "link": "https://www.google.com/travel/search?g2lb=4965990,72471280,72560029,72573224,72647020,72686036,72803964,72882230,73059275,73064764,73249147,121608705,121641910&hl=en-US&gl=us&ssta=1&q=kauai+shores+hotel&ts=CAEaRwopEicyJTB4N2MwNmUwNGJlOTdhNTI5YjoweGQwYTJkNjgxMzE1NTZhOTESGhIUCgcI6g8QBRgZEgcI6g8QBRgaGAEyAhAA&qs=CAEyFENnc0lrZFhWaXBQUXRkSFFBUkFCOAJCCQmRalUxgdai0EIJCZFqVTGB1qLQ&ap=ugEHcmV2aWV3cw&ictx=111&ved=1t:247458"
+      }
+    ],
+    "profiles": [
+      {
+        "name": "X (Twitter)",
+        "link": "https://twitter.com/thekauaishores",
+        "image": "https://ssl.gstatic.com/kpui/social/x_32x32.png"
+      },
+      {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/KauaiShoresHotel/",
+        "image": "https://ssl.gstatic.com/kpui/social/fb_32x32.png"
+      },
+      {
+        "name": "TikTok",
+        "link": "https://www.tiktok.com/@kauaishoreshotel",
+        "image": "https://ssl.gstatic.com/kpui/social/tiktok_32x32.png"
+      },
+      {
+        "name": "Instagram",
+        "link": "https://www.instagram.com/thekauaishores/",
+        "image": "https://ssl.gstatic.com/kpui/social/instagram_32x32.png"
+      }
+    ]
+  },
+  "related_questions": [
+    {
+      "question": "Is Kauai Shores Hotel worth the price?",
+      "type": "featured_snippet",
+      "snippet": "Final Thoughts. If you want a budget-friendly, well-located, and all-around wonderful hotel in Kauai, Kauai Shores Hotel is a fantastic choice. With the convenience of an on-site restaurant, easy access to both ends of the island, and a beautiful beachfront setting, it's hard to go wrong.",
+      "title": "Where to Stay in Kauai: Kauai Shores Hotel Review",
+      "date": "Jan 19, 2025",
+      "link": "https://stephanierachelle.com/kauai-shores-hotel/#:~:text=Final%20Thoughts,it's%20hard%20to%20go%20wrong.",
+      "displayed_link": "https://stephanierachelle.com \u203a kauai-shores-hotel",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVFJubE1TSEJmT1Zock9WQnVZMWN4VVVoeFVscG5VRVZLYVRKS01YZzJSMHRCVTJkcmJVbE1VRlJQYnpObVoyWTFjRUpMYzIxTFkzSkJaR3N4YmtRdE16RnlabVJzYkZCVFRsWTJXazE2VlZRMFdFbGFObUk0ZDNCU2R4SVhlRTgwVG1GMVYyUkRielpxY0hSUlVEZG1NM1Y1UVhjYUlrRktTMHhHYlVvMU4xTjViRGRqUkZGM2RtMW1ZM0pDYlY5ME9FOUZhV1JFU1hjIiwiZmN2IjoiMyIsImVpIjoieE80TmF1V2RDbzZqcHRRUDdmM3V5QXciLCJxYyI6IkNoSnJZWFZoYVNCemFHOXlaWE1nYUc5MFpXd1FBSDBLSGpFXyIsInF1ZXN0aW9uIjoiSXMgS2F1YWkgU2hvcmVzIEhvdGVsIHdvcnRoIHRoZSBwcmljZT8iLCJsayI6IkdpVnBjeUJyWVhWaGFTQnphRzl5WlhNZ2FHOTBaV3dnZDI5eWRHZ2dkR2hsSUhCeWFXTmwiLCJicyI6ImMtTUs0Vkx6TEZid1RpeE56RlFJenNndlNpMVc4TWd2U2MxUktNOHZLc2xRS01sSVZTZ295a3hPdFpmWWFHYWtMcVdhV2F5UURWWmNERkdjZ1UweFZ3eVhsa3QtS2xaek14TExVaFdTVWhPVE14UVNrNU5UaTR2dEpmb2NqYlNsTkZOQUdyQ1lqYUdCSzRsTEYtaG1rRzFRNFJKc0ZoV1haLWJtSmlibEFKMS1KTkJJVDBvbkUwMFBGcnZnZXJoOHVaVERNNENLU3ZMTDh4UXlzZm9rTTg5ZXd0QklSVXFwSEZraEZsTXo4d1FZQVEiLCJpZCI6ImZjX3hPNE5hdVdkQ282anB0UVA3ZjN1eUF3XzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVFJubE1TSEJmT1Zock9WQnVZMWN4VVVoeFVscG5VRVZLYVRKS01YZzJSMHRCVTJkcmJVbE1VRlJQYnpObVoyWTFjRUpMYzIxTFkzSkJaR3N4YmtRdE16RnlabVJzYkZCVFRsWTJXazE2VlZRMFdFbGFObUk0ZDNCU2R4SVhlRTgwVG1GMVYyUkRielpxY0hSUlVEZG1NM1Y1UVhjYUlrRktTMHhHYlVvMU4xTjViRGRqUkZGM2RtMW1ZM0pDYlY5ME9FOUZhV1JFU1hjIiwiZmN2IjoiMyIsImVpIjoieE80TmF1V2RDbzZqcHRRUDdmM3V5QXciLCJxYyI6IkNoSnJZWFZoYVNCemFHOXlaWE1nYUc5MFpXd1FBSDBLSGpFXyIsInF1ZXN0aW9uIjoiSXMgS2F1YWkgU2hvcmVzIEhvdGVsIHdvcnRoIHRoZSBwcmljZT8iLCJsayI6IkdpVnBjeUJyWVhWaGFTQnphRzl5WlhNZ2FHOTBaV3dnZDI5eWRHZ2dkR2hsSUhCeWFXTmwiLCJicyI6ImMtTUs0Vkx6TEZid1RpeE56RlFJenNndlNpMVc4TWd2U2MxUktNOHZLc2xRS01sSVZTZ295a3hPdFpmWWFHYWtMcVdhV2F5UURWWmNERkdjZ1UweFZ3eVhsa3QtS2xaek14TExVaFdTVWhPVE14UVNrNU5UaTR2dEpmb2NqYlNsTkZOQUdyQ1lqYUdCSzRsTEYtaG1rRzFRNFJKc0ZoV1haLWJtSmlibEFKMS1KTkJJVDBvbkUwMFBGcnZnZXJoOHVaVERNNENLU3ZMTDh4UXlzZm9rTTg5ZXd0QklSVXFwSEZraEZsTXo4d1FZQVEiLCJpZCI6ImZjX3hPNE5hdVdkQ282anB0UVA3ZjN1eUF3XzEifQ%3D%3D"
+    },
+    {
+      "question": "Does Kauai Shores Hotel have beach access?",
+      "type": "featured_snippet",
+      "snippet": "Guests who stayed here loved: \u201cKauai Shores was wonderful! So clean and comfortable with direct access to the beach.",
+      "title": "Kauai Shores Hotel, Kapaa (updated prices 2026)",
+      "link": "https://www.booking.com/hotel/us/kauai-sand.html#:~:text=Guests%20who%20stayed%20here%20loved%3A&text=%E2%80%9CKauai%20Shores%20was%20wonderful!,direct%20access%20to%20the%20beach.",
+      "displayed_link": "https://www.booking.com \u203a ... \u203a Hotels in Kapaa",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVFJubE1TSEJmT1Zock9WQnVZMWN4VVVoeFVscG5VRVZLYVRKS01YZzJSMHRCVTJkcmJVbE1VRlJQYnpObVoyWTFjRUpMYzIxTFkzSkJaR3N4YmtRdE16RnlabVJzYkZCVFRsWTJXazE2VlZRMFdFbGFObUk0ZDNCU2R4SVhlRTgwVG1GMVYyUkRielpxY0hSUlVEZG1NM1Y1UVhjYUlrRktTMHhHYlVvMU4xTjViRGRqUkZGM2RtMW1ZM0pDYlY5ME9FOUZhV1JFU1hjIiwiZmN2IjoiMyIsImVpIjoieE80TmF1V2RDbzZqcHRRUDdmM3V5QXciLCJxYyI6IkNoSnJZWFZoYVNCemFHOXlaWE1nYUc5MFpXd1FBSDBLSGpFXyIsInF1ZXN0aW9uIjoiRG9lcyBLYXVhaSBTaG9yZXMgSG90ZWwgaGF2ZSBiZWFjaCBhY2Nlc3M/IiwibGsiOiJHaWxrYjJWeklHdGhkV0ZwSUhOb2IzSmxjeUJvYjNSbGJDQm9ZWFpsSUdKbFlXTm9JR0ZqWTJWemN3IiwiYnMiOiJjLU1LNFZMekxGYndUaXhOekZRSXpzZ3ZTaTFXOE1ndlNjMVJLTTh2S3NsUUtNbElWU2dveWt4T3RaZllhR2FrTHFXYVdheVFEVlpjREZHY2dVMHhWd3lYbGt0LUtsWnpNeExMVWhXU1VoT1RNeFFTazVOVGk0dnRKZm9jamJTbE5GTkFHckNZamFHQks0bExGLWhta0cxUTRSSnNGaFdYWi1ibUppYmxBSjEtSk5CSVQwb25FMDBQRnJ2Z2VyaDh1WlRETTRDS1N2TEw4eFF5c2Zva004OWV3dEJJUlVxcEhGa2hGbE16OHdRWUFRIiwiaWQiOiJmY194TzROYXVXZENvNmpwdFFQN2YzdXlBd18xIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVFJubE1TSEJmT1Zock9WQnVZMWN4VVVoeFVscG5VRVZLYVRKS01YZzJSMHRCVTJkcmJVbE1VRlJQYnpObVoyWTFjRUpMYzIxTFkzSkJaR3N4YmtRdE16RnlabVJzYkZCVFRsWTJXazE2VlZRMFdFbGFObUk0ZDNCU2R4SVhlRTgwVG1GMVYyUkRielpxY0hSUlVEZG1NM1Y1UVhjYUlrRktTMHhHYlVvMU4xTjViRGRqUkZGM2RtMW1ZM0pDYlY5ME9FOUZhV1JFU1hjIiwiZmN2IjoiMyIsImVpIjoieE80TmF1V2RDbzZqcHRRUDdmM3V5QXciLCJxYyI6IkNoSnJZWFZoYVNCemFHOXlaWE1nYUc5MFpXd1FBSDBLSGpFXyIsInF1ZXN0aW9uIjoiRG9lcyBLYXVhaSBTaG9yZXMgSG90ZWwgaGF2ZSBiZWFjaCBhY2Nlc3M%2FIiwibGsiOiJHaWxrYjJWeklHdGhkV0ZwSUhOb2IzSmxjeUJvYjNSbGJDQm9ZWFpsSUdKbFlXTm9JR0ZqWTJWemN3IiwiYnMiOiJjLU1LNFZMekxGYndUaXhOekZRSXpzZ3ZTaTFXOE1ndlNjMVJLTTh2S3NsUUtNbElWU2dveWt4T3RaZllhR2FrTHFXYVdheVFEVlpjREZHY2dVMHhWd3lYbGt0LUtsWnpNeExMVWhXU1VoT1RNeFFTazVOVGk0dnRKZm9jamJTbE5GTkFHckNZamFHQks0bExGLWhta0cxUTRSSnNGaFdYWi1ibUppYmxBSjEtSk5CSVQwb25FMDBQRnJ2Z2VyaDh1WlRETTRDS1N2TEw4eFF5c2Zva004OWV3dEJJUlVxcEhGa2hGbE16OHdRWUFRIiwiaWQiOiJmY194TzROYXVXZENvNmpwdFFQN2YzdXlBd18xIn0%3D"
+    },
+    {
+      "question": "Is the beach at Kauai Shores Hotel swimmable?",
+      "type": "featured_snippet",
+      "snippet": "Yes you can swim there as long as conditions are safe!",
+      "title": "Is there snorkeling at Kauai Shores Hotel? Pictures & Reviews",
+      "link": "https://www.tripadvisor.com/Hotel_Feature-g60616-d101363-zft19081-Kauai_Shores_Hotel.html#:~:text=Yes%20you%20can%20swim%20there%20as%20long%20as%20conditions%20are%20safe!",
+      "displayed_link": "https://www.tripadvisor.com \u203a Hotel_Feature-g60616-d1...",
+      "source_logo": "https://serpapi.com/searches/6a0deec2e82707673786028e/images/bOX2_neXrcC_dG03zmhDnDnF2m8n9uO0-LFd068uQtk.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVFJubE1TSEJmT1Zock9WQnVZMWN4VVVoeFVscG5VRVZLYVRKS01YZzJSMHRCVTJkcmJVbE1VRlJQYnpObVoyWTFjRUpMYzIxTFkzSkJaR3N4YmtRdE16RnlabVJzYkZCVFRsWTJXazE2VlZRMFdFbGFObUk0ZDNCU2R4SVhlRTgwVG1GMVYyUkRielpxY0hSUlVEZG1NM1Y1UVhjYUlrRktTMHhHYlVvMU4xTjViRGRqUkZGM2RtMW1ZM0pDYlY5ME9FOUZhV1JFU1hjIiwiZmN2IjoiMyIsImVpIjoieE80TmF1V2RDbzZqcHRRUDdmM3V5QXciLCJxYyI6IkNoSnJZWFZoYVNCemFHOXlaWE1nYUc5MFpXd1FBSDBLSGpFXyIsInF1ZXN0aW9uIjoiSXMgdGhlIGJlYWNoIGF0IEthdWFpIFNob3JlcyBIb3RlbCBzd2ltbWFibGU/IiwibGsiOiJHaXhwY3lCMGFHVWdZbVZoWTJnZ1lYUWdhMkYxWVdrZ2MyaHZjbVZ6SUdodmRHVnNJSE4zYVcxdFlXSnNaUSIsImJzIjoiYy1NSzRWTHpMRmJ3VGl4TnpGUUl6c2d2U2kxVzhNZ3ZTYzFSS004dktzbFFLTWxJVlNnb3lreE90WmZZYUdha0xxV2FXYXlRRFZaY0RGR2NnVTB4Vnd5WGxrdC1LbFp6TXhMTFVoV1NVaE9UTXhRU2s1TlRpNHZ0SmZvY2piU2xORk5BR3JDWWphR0JLNGxMRi1obWtHMVE0UkpzRmhXWFotYm1KaWJsQUoxLUpOQklUMG9uRTAwUEZydmdlcmg4dVpURE00Q0tTdkxMOHhReXNmb2tNODlld3RCSVJVcXBIRmtoRmxNejh3UVlBUSIsImlkIjoiZmNfeE80TmF1V2RDbzZqcHRRUDdmM3V5QXdfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVFJubE1TSEJmT1Zock9WQnVZMWN4VVVoeFVscG5VRVZLYVRKS01YZzJSMHRCVTJkcmJVbE1VRlJQYnpObVoyWTFjRUpMYzIxTFkzSkJaR3N4YmtRdE16RnlabVJzYkZCVFRsWTJXazE2VlZRMFdFbGFObUk0ZDNCU2R4SVhlRTgwVG1GMVYyUkRielpxY0hSUlVEZG1NM1Y1UVhjYUlrRktTMHhHYlVvMU4xTjViRGRqUkZGM2RtMW1ZM0pDYlY5ME9FOUZhV1JFU1hjIiwiZmN2IjoiMyIsImVpIjoieE80TmF1V2RDbzZqcHRRUDdmM3V5QXciLCJxYyI6IkNoSnJZWFZoYVNCemFHOXlaWE1nYUc5MFpXd1FBSDBLSGpFXyIsInF1ZXN0aW9uIjoiSXMgdGhlIGJlYWNoIGF0IEthdWFpIFNob3JlcyBIb3RlbCBzd2ltbWFibGU%2FIiwibGsiOiJHaXhwY3lCMGFHVWdZbVZoWTJnZ1lYUWdhMkYxWVdrZ2MyaHZjbVZ6SUdodmRHVnNJSE4zYVcxdFlXSnNaUSIsImJzIjoiYy1NSzRWTHpMRmJ3VGl4TnpGUUl6c2d2U2kxVzhNZ3ZTYzFSS004dktzbFFLTWxJVlNnb3lreE90WmZZYUdha0xxV2FXYXlRRFZaY0RGR2NnVTB4Vnd5WGxrdC1LbFp6TXhMTFVoV1NVaE9UTXhRU2s1TlRpNHZ0SmZvY2piU2xORk5BR3JDWWphR0JLNGxMRi1obWtHMVE0UkpzRmhXWFotYm1KaWJsQUoxLUpOQklUMG9uRTAwUEZydmdlcmg4dVpURE00Q0tTdkxMOHhReXNmb2tNODlld3RCSVJVcXBIRmtoRmxNejh3UVlBUSIsImlkIjoiZmNfeE80TmF1V2RDbzZqcHRRUDdmM3V5QXdfMSJ9"
+    },
+    {
+      "question": "What town is Kauai Shores Hotel in?",
+      "type": "featured_snippet",
+      "snippet": "The Ultimate Island-Life Experience | Kauai Shores Hotel | Kapaa, Hawaii.",
+      "title": "Kapaa",
+      "link": "https://www.kauaishoreshotel.com/#:~:text=The%20Ultimate%20Island%2DLife%20Experience,Kauai%20Shores%20Hotel%20%7C%20Kapaa%2C%20Hawaii",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVFJubE1TSEJmT1Zock9WQnVZMWN4VVVoeFVscG5VRVZLYVRKS01YZzJSMHRCVTJkcmJVbE1VRlJQYnpObVoyWTFjRUpMYzIxTFkzSkJaR3N4YmtRdE16RnlabVJzYkZCVFRsWTJXazE2VlZRMFdFbGFObUk0ZDNCU2R4SVhlRTgwVG1GMVYyUkRielpxY0hSUlVEZG1NM1Y1UVhjYUlrRktTMHhHYlVvMU4xTjViRGRqUkZGM2RtMW1ZM0pDYlY5ME9FOUZhV1JFU1hjIiwiZmN2IjoiMyIsImVpIjoieE80TmF1V2RDbzZqcHRRUDdmM3V5QXciLCJxYyI6IkNoSnJZWFZoYVNCemFHOXlaWE1nYUc5MFpXd1FBSDBLSGpFXyIsInF1ZXN0aW9uIjoiV2hhdCB0b3duIGlzIEthdWFpIFNob3JlcyBIb3RlbCBpbj8iLCJsayI6IkdpSjNhR0YwSUhSdmQyNGdhWE1nYTJGMVlXa2djMmh2Y21WeklHaHZkR1ZzSUdsdSIsImJzIjoiYy1NSzRWTHpMRmJ3VGl4TnpGUUl6c2d2U2kxVzhNZ3ZTYzFSS004dktzbFFLTWxJVlNnb3lreE90WmZZYUdha0xxV2FXYXlRRFZaY0RGR2NnVTB4Vnd5WGxrdC1LbFp6TXhMTFVoV1NVaE9UTXhRU2s1TlRpNHZ0SmZvY2piU2xORk5BR3JDWWphR0JLNGxMRi1obWtHMVE0UkpzRmhXWFotYm1KaWJsQUoxLUpOQklUMG9uRTAwUEZydmdlcmg4dVpURE00Q0tTdkxMOHhReXNmb2tNODlld3RCSVJVcXBIRmtoRmxNejh3UVlBUSIsImlkIjoiZmNfeE80TmF1V2RDbzZqcHRRUDdmM3V5QXdfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVFJubE1TSEJmT1Zock9WQnVZMWN4VVVoeFVscG5VRVZLYVRKS01YZzJSMHRCVTJkcmJVbE1VRlJQYnpObVoyWTFjRUpMYzIxTFkzSkJaR3N4YmtRdE16RnlabVJzYkZCVFRsWTJXazE2VlZRMFdFbGFObUk0ZDNCU2R4SVhlRTgwVG1GMVYyUkRielpxY0hSUlVEZG1NM1Y1UVhjYUlrRktTMHhHYlVvMU4xTjViRGRqUkZGM2RtMW1ZM0pDYlY5ME9FOUZhV1JFU1hjIiwiZmN2IjoiMyIsImVpIjoieE80TmF1V2RDbzZqcHRRUDdmM3V5QXciLCJxYyI6IkNoSnJZWFZoYVNCemFHOXlaWE1nYUc5MFpXd1FBSDBLSGpFXyIsInF1ZXN0aW9uIjoiV2hhdCB0b3duIGlzIEthdWFpIFNob3JlcyBIb3RlbCBpbj8iLCJsayI6IkdpSjNhR0YwSUhSdmQyNGdhWE1nYTJGMVlXa2djMmh2Y21WeklHaHZkR1ZzSUdsdSIsImJzIjoiYy1NSzRWTHpMRmJ3VGl4TnpGUUl6c2d2U2kxVzhNZ3ZTYzFSS004dktzbFFLTWxJVlNnb3lreE90WmZZYUdha0xxV2FXYXlRRFZaY0RGR2NnVTB4Vnd5WGxrdC1LbFp6TXhMTFVoV1NVaE9UTXhRU2s1TlRpNHZ0SmZvY2piU2xORk5BR3JDWWphR0JLNGxMRi1obWtHMVE0UkpzRmhXWFotYm1KaWJsQUoxLUpOQklUMG9uRTAwUEZydmdlcmg4dVpURE00Q0tTdkxMOHhReXNmb2tNODlld3RCSVJVcXBIRmtoRmxNejh3UVlBUSIsImlkIjoiZmNfeE80TmF1V2RDbzZqcHRRUDdmM3V5QXdfMSJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "The Ultimate Island-Life Experience | Kauai Shores Hotel ...",
+      "link": "https://www.kauaishoreshotel.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kauaishoreshotel.com/&ved=2ahUKEwjlj6PEsciUAxWOkYkEHe2-G8kQFnoECDYQAQ",
+      "displayed_link": "https://www.kauaishoreshotel.com",
+      "favicon": "https://serpapi.com/searches/6a0deec2e82707673786028e/images/3P6wSeR4IX6y62yYuweDvuQg6RKMQKodrYp4Z9hDwhg.png",
+      "snippet": "Step into paradise at our beachfront hotel on the serene Royal Coconut Coast. Soak up the Kauai Shores vibe with beachside yoga and delicious dining.",
+      "snippet_highlighted_words": [
+        "hotel",
+        "Kauai Shores"
+      ],
+      "sitelinks": {
+        "expanded": [
+          {
+            "title": "Rooms",
+            "link": "https://www.kauaishoreshotel.com/rooms",
+            "snippet": "Choose from garden, courtyard, and oceanview rooms at Kauai ..."
+          },
+          {
+            "title": "Specials",
+            "link": "https://www.kauaishoreshotel.com/specials",
+            "snippet": "Save on your Kauai stay with seasonal deals, romance, and ..."
+          },
+          {
+            "title": "FAQs",
+            "link": "https://www.kauaishoreshotel.com/faq",
+            "snippet": "Check-in times, parking, resort fee, Wi-Fi, beach access & more ..."
+          },
+          {
+            "title": "Contact Us",
+            "link": "https://www.kauaishoreshotel.com/contact-us",
+            "snippet": "Make a reservation by calling (877) 220-1468. Book a Room. The ..."
+          },
+          {
+            "title": "Plan your stay",
+            "link": "https://www.kauaishoreshotel.com/plan-your-stay",
+            "snippet": "Everything you need to plan your Kauai getaway. Check-in details ..."
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Step into paradise at our beachfront hotel on the serene Royal Coconut Coast. Soak up the Kauai Shores vibe with beachside yoga and delicious dining.",
+          "source_info_link": "https://www.kauaishoreshotel.com/",
+          "icon": "https://serpapi.com/searches/6a0deec2e82707673786028e/images/3P6wSeR4IX6y62yYuweDvm-u3C_pQGQCVEI7niryG2gbOgoWDTsqLHVFe4T7aaOT.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.kauaishoreshotel.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.kauaishoreshotel.com%2F",
+      "source": "Kauai Shores Hotel"
+    },
+    {
+      "position": 2,
+      "title": "KAUAI SHORES HOTEL - Updated 2026 Prices & Reviews ...",
+      "link": "https://www.tripadvisor.com/Hotel_Review-g60616-d101363-Reviews-Kauai_Shores_Hotel-Kapaa_Kauai_Hawaii.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tripadvisor.com/Hotel_Review-g60616-d101363-Reviews-Kauai_Shores_Hotel-Kapaa_Kauai_Hawaii.html&ved=2ahUKEwjlj6PEsciUAxWOkYkEHe2-G8kQFnoECFgQAQ",
+      "displayed_link": "https://www.tripadvisor.com \u203a ... \u203a Kapaa \u203a Kapaa Hotels",
+      "favicon": "https://serpapi.com/searches/6a0deec2e82707673786028e/images/3P6wSeR4IX6y62yYuweDvjuQuLG3OvJJnGawxDrFp94.png",
+      "snippet": "Enjoy the accommodations at our beachfront, resort-like property situated along a secluded beach on Kauai's Royal Coconut Coast. The property features six ...",
+      "snippet_highlighted_words": [
+        "beachfront, resort-like property situated along a secluded beach"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Enjoy the accommodations at our beachfront, resort-like property situated along a secluded beach on Kauai's Royal Coconut Coast. The property features six ...",
+          "source_info_link": "https://www.tripadvisor.com/Hotel_Review-g60616-d101363-Reviews-Kauai_Shores_Hotel-Kapaa_Kauai_Hawaii.html",
+          "icon": "https://serpapi.com/searches/6a0deec2e82707673786028e/images/3P6wSeR4IX6y62yYuweDvgykUrTDzgDDEiZg0PnE5bWyhFQGNzqKTBEbQyr9yG1q.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.tripadvisor.com/Hotel_Review-g60616-d101363-Reviews-Kauai_Shores_Hotel-Kapaa_Kauai_Hawaii.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.tripadvisor.com%2FHotel_Review-g60616-d101363-Reviews-Kauai_Shores_Hotel-Kapaa_Kauai_Hawaii.html",
+      "source": "Tripadvisor"
+    },
+    {
+      "position": 3,
+      "title": "Kauai Shores Hotel (@thekauaishores) \u00b7 Kapaa, HI",
+      "link": "https://www.instagram.com/thekauaishores/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/thekauaishores/&ved=2ahUKEwjlj6PEsciUAxWOkYkEHe2-G8kQFnoECFwQAQ",
+      "displayed_link": "5.3K+ followers",
+      "favicon": "https://serpapi.com/searches/6a0deec2e82707673786028e/images/3P6wSeR4IX6y62yYuweDvv5g6Tlj9La8W6sWe7RkONs.png",
+      "snippet": "Experience the beauty of Kauai at our beachfront property on the Royal Coconut Coast. #kauaishores. Shake off the winter blues and bloom into island life.",
+      "snippet_highlighted_words": [
+        "beachfront property on the Royal Coconut Coast"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Experience the beauty of Kauai at our beachfront property on the Royal Coconut Coast. #kauaishores. Shake off the winter blues and bloom into island life.",
+          "source_info_link": "https://www.instagram.com/thekauaishores/",
+          "icon": "https://serpapi.com/searches/6a0deec2e82707673786028e/images/3P6wSeR4IX6y62yYuweDvnlHuSsJ8eYcpK7PI6twxWsUHKXginns300uFvpXmQWd.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/thekauaishores/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fthekauaishores%2F",
+      "source": "Instagram \u00b7 thekauaishores"
+    },
+    {
+      "position": 4,
+      "title": "Kauai Shores Hotel, Kapaa (updated prices 2026)",
+      "link": "https://www.booking.com/hotel/us/kauai-sand.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.booking.com/hotel/us/kauai-sand.html&ved=2ahUKEwjlj6PEsciUAxWOkYkEHe2-G8kQFnoECFoQAQ",
+      "displayed_link": "https://www.booking.com \u203a ... \u203a Hotels in Kapaa",
+      "favicon": "https://serpapi.com/searches/6a0deec2e82707673786028e/images/3P6wSeR4IX6y62yYuweDvoQ7QoSU2qnM6Qz0N5sP2iw.png",
+      "snippet": "\u201cSuper fun hotel with all the amenities. Beautiful grounds, open air restaurant on site with live music, pool, hot tub, fire pits, games, all right on the ...",
+      "snippet_highlighted_words": [
+        "hotel"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "\u201cSuper fun hotel with all the amenities. Beautiful grounds, open air restaurant on site with live music, pool, hot tub, fire pits, games, all right on the ...",
+          "source_info_link": "https://www.booking.com/hotel/us/kauai-sand.html",
+          "icon": "https://serpapi.com/searches/6a0deec2e82707673786028e/images/3P6wSeR4IX6y62yYuweDvgINm2nsiNlLXIpESGBRzi78JdwOH3b8JbKBV1zRKIlc.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.booking.com/hotel/us/kauai-sand.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.booking.com%2Fhotel%2Fus%2Fkauai-sand.html",
+      "source": "Booking.com"
+    },
+    {
+      "position": 5,
+      "title": "Kauai Shores Hotel",
+      "link": "https://www.costcotravel.com/Hotels/Hawaii/Kauai/KauaiKauaiShoresHotel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.costcotravel.com/Hotels/Hawaii/Kauai/KauaiKauaiShoresHotel&ved=2ahUKEwjlj6PEsciUAxWOkYkEHe2-G8kQFnoECFsQAQ",
+      "displayed_link": "https://www.costcotravel.com \u203a Hotels \u203a Hawaii \u203a Kauai...",
+      "favicon": "https://serpapi.com/searches/6a0deec2e82707673786028e/images/3P6wSeR4IX6y62yYuweDvr5ddoSBUa0Hk1v47ikwItM.png",
+      "snippet": "Set on six acres of tropical gardens along a pristine stretch of beach on Kauai's Coconut Coast, Kauai Shores Hotel features all newly renovated guest rooms.",
+      "snippet_highlighted_words": [
+        "Kauai Shores Hotel"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Set on six acres of tropical gardens along a pristine stretch of beach on Kauai's Coconut Coast, Kauai Shores Hotel features all newly renovated guest rooms.",
+          "source_info_link": "https://www.costcotravel.com/Hotels/Hawaii/Kauai/KauaiKauaiShoresHotel",
+          "icon": "https://serpapi.com/searches/6a0deec2e82707673786028e/images/3P6wSeR4IX6y62yYuweDvhLqPHKiWPeifpf9G9OLE1_tUolmfM_uYky0SQAQI1Ms.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.costcotravel.com/Hotels/Hawaii/Kauai/KauaiKauaiShoresHotel&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.costcotravel.com%2FHotels%2FHawaii%2FKauai%2FKauaiKauaiShoresHotel",
+      "source": "Costco Travel"
+    },
+    {
+      "position": 6,
+      "title": "Kauai Shores Hotel | Kapaa HI",
+      "link": "https://www.facebook.com/KauaiShoresHotel/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/KauaiShoresHotel/&ved=2ahUKEwjlj6PEsciUAxWOkYkEHe2-G8kQFnoECF0QAQ",
+      "displayed_link": "4.5K+ followers",
+      "favicon": "https://serpapi.com/searches/6a0deec2e82707673786028e/images/3P6wSeR4IX6y62yYuweDvobFaC63ILSqKYJDvCM1bPw.png",
+      "snippet": "Kauai Shores Hotel is the ultimate beachfront base for a tropical reset. Enjoy easy access to two sparkling pools and expansive ocean views just steps from your ...",
+      "snippet_highlighted_words": [
+        "Kauai Shores Hotel"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Kauai Shores Hotel is the ultimate beachfront base for a tropical reset. Enjoy easy access to two sparkling pools and expansive ocean views just steps from your ...",
+          "source_info_link": "https://www.facebook.com/KauaiShoresHotel/",
+          "icon": "https://serpapi.com/searches/6a0deec2e82707673786028e/images/3P6wSeR4IX6y62yYuweDvpIdnYG40rdAfdl5YFizCmtWxIh5yqlu1NUnes7LW9sv.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/KauaiShoresHotel/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FKauaiShoresHotel%2F",
+      "source": "Facebook \u00b7 Kauai Shores Hotel"
+    },
+    {
+      "position": 7,
+      "title": "Review of the Kauai Shores Hotel in Kapa'a on ...",
+      "link": "https://2traveldads.com/review-of-kauai-shores-hotel/?srsltid=AfmBOooUVasoMfOkHTwRaLApDEZQbYjkHJ-ywWaAhqTMm0xQn4jvqBYe",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://2traveldads.com/review-of-kauai-shores-hotel/%3Fsrsltid%3DAfmBOooUVasoMfOkHTwRaLApDEZQbYjkHJ-ywWaAhqTMm0xQn4jvqBYe&ved=2ahUKEwjlj6PEsciUAxWOkYkEHe2-G8kQFnoECFkQAQ",
+      "displayed_link": "https://2traveldads.com \u203a Archive",
+      "favicon": "https://serpapi.com/searches/6a0deec2e82707673786028e/images/3P6wSeR4IX6y62yYuweDvpGAOA0e4NpQWrUq3X6JCKc.jpeg",
+      "snippet": "Staying at the Kauai Shores Hotel is a great option for getting to explore both the historic South Shore and the epic Na Pali Coast of the North Shore.",
+      "snippet_highlighted_words": [
+        "Staying at the Kauai Shores Hotel is a great option"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Staying at the Kauai Shores Hotel is a great option for getting to explore both the historic South Shore and the epic Na Pali Coast of the North Shore.",
+          "source_info_link": "https://2traveldads.com/review-of-kauai-shores-hotel/?srsltid=AfmBOooUVasoMfOkHTwRaLApDEZQbYjkHJ-ywWaAhqTMm0xQn4jvqBYe",
+          "icon": "https://serpapi.com/searches/6a0deec2e82707673786028e/images/3P6wSeR4IX6y62yYuweDvjkLigXzRxYlx9bKGQtjozuLXrQx-YF8VPBcP6S9P0HA.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://2traveldads.com/review-of-kauai-shores-hotel/?srsltid=AfmBOooUVasoMfOkHTwRaLApDEZQbYjkHJ-ywWaAhqTMm0xQn4jvqBYe&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2F2traveldads.com%2Freview-of-kauai-shores-hotel%2F%3Fsrsltid%3DAfmBOooUVasoMfOkHTwRaLApDEZQbYjkHJ-ywWaAhqTMm0xQn4jvqBYe",
+      "source": "2TravelDads"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=kauai+shores+hotel&sca_esv=b05b86de3d8e65b9&hl=en&gl=us&ei=xO4NauWdCo6jptQP7f3uyAw&start=10&sa=N&sstk=AU9db-CxF3NoKedbSLzFMZ_bGJcuzcBjRoGOQlra83Wi1b7A9CXCy5oBShPUJbC3osvpHjQorJY9xtQZUuvAG2iN2peN-ma08OJCDw&ved=2ahUKEwjlj6PEsciUAxWOkYkEHe2-G8kQ8NMDegQIVxAS",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=kauai+shores+hotel&sca_esv=b05b86de3d8e65b9&hl=en&gl=us&ei=xO4NauWdCo6jptQP7f3uyAw&start=10&sa=N&sstk=AU9db-CxF3NoKedbSLzFMZ_bGJcuzcBjRoGOQlra83Wi1b7A9CXCy5oBShPUJbC3osvpHjQorJY9xtQZUuvAG2iN2peN-ma08OJCDw&ved=2ahUKEwjlj6PEsciUAxWOkYkEHe2-G8kQ8tMDegQIVxAE",
+      "3": "https://www.google.com/search?q=kauai+shores+hotel&sca_esv=b05b86de3d8e65b9&hl=en&gl=us&ei=xO4NauWdCo6jptQP7f3uyAw&start=20&sa=N&sstk=AU9db-CxF3NoKedbSLzFMZ_bGJcuzcBjRoGOQlra83Wi1b7A9CXCy5oBShPUJbC3osvpHjQorJY9xtQZUuvAG2iN2peN-ma08OJCDw&ved=2ahUKEwjlj6PEsciUAxWOkYkEHe2-G8kQ8tMDegQIVxAG",
+      "4": "https://www.google.com/search?q=kauai+shores+hotel&sca_esv=b05b86de3d8e65b9&hl=en&gl=us&ei=xO4NauWdCo6jptQP7f3uyAw&start=30&sa=N&sstk=AU9db-CxF3NoKedbSLzFMZ_bGJcuzcBjRoGOQlra83Wi1b7A9CXCy5oBShPUJbC3osvpHjQorJY9xtQZUuvAG2iN2peN-ma08OJCDw&ved=2ahUKEwjlj6PEsciUAxWOkYkEHe2-G8kQ8tMDegQIVxAI",
+      "5": "https://www.google.com/search?q=kauai+shores+hotel&sca_esv=b05b86de3d8e65b9&hl=en&gl=us&ei=xO4NauWdCo6jptQP7f3uyAw&start=40&sa=N&sstk=AU9db-CxF3NoKedbSLzFMZ_bGJcuzcBjRoGOQlra83Wi1b7A9CXCy5oBShPUJbC3osvpHjQorJY9xtQZUuvAG2iN2peN-ma08OJCDw&ved=2ahUKEwjlj6PEsciUAxWOkYkEHe2-G8kQ8tMDegQIVxAK",
+      "6": "https://www.google.com/search?q=kauai+shores+hotel&sca_esv=b05b86de3d8e65b9&hl=en&gl=us&ei=xO4NauWdCo6jptQP7f3uyAw&start=50&sa=N&sstk=AU9db-CxF3NoKedbSLzFMZ_bGJcuzcBjRoGOQlra83Wi1b7A9CXCy5oBShPUJbC3osvpHjQorJY9xtQZUuvAG2iN2peN-ma08OJCDw&ved=2ahUKEwjlj6PEsciUAxWOkYkEHe2-G8kQ8tMDegQIVxAM",
+      "7": "https://www.google.com/search?q=kauai+shores+hotel&sca_esv=b05b86de3d8e65b9&hl=en&gl=us&ei=xO4NauWdCo6jptQP7f3uyAw&start=60&sa=N&sstk=AU9db-CxF3NoKedbSLzFMZ_bGJcuzcBjRoGOQlra83Wi1b7A9CXCy5oBShPUJbC3osvpHjQorJY9xtQZUuvAG2iN2peN-ma08OJCDw&ved=2ahUKEwjlj6PEsciUAxWOkYkEHe2-G8kQ8tMDegQIVxAO",
+      "8": "https://www.google.com/search?q=kauai+shores+hotel&sca_esv=b05b86de3d8e65b9&hl=en&gl=us&ei=xO4NauWdCo6jptQP7f3uyAw&start=70&sa=N&sstk=AU9db-CxF3NoKedbSLzFMZ_bGJcuzcBjRoGOQlra83Wi1b7A9CXCy5oBShPUJbC3osvpHjQorJY9xtQZUuvAG2iN2peN-ma08OJCDw&ved=2ahUKEwjlj6PEsciUAxWOkYkEHe2-G8kQ8tMDegQIVxAQ"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=kauai+shores+hotel&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=kauai+shores+hotel&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=kauai+shores+hotel&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=kauai+shores+hotel&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=kauai+shores+hotel&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=kauai+shores+hotel&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=kauai+shores+hotel&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=kauai+shores+hotel&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=kauai+shores+hotel&start=70"
+    }
+  }
+}

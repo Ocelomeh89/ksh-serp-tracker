@@ -1,0 +1,692 @@
+{
+  "search_metadata": {
+    "id": "6a0deeec41ffc8d44dfebeff",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/hsvnbqbUc4x8b3Wicd0mHA/6a0deeec41ffc8d44dfebeff.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/hsvnbqbUc4x8b3Wicd0mHA/6a0deeec41ffc8d44dfebeff.json_with_pixel_position",
+    "created_at": "2026-05-20 17:27:08 UTC",
+    "processed_at": "2026-05-20 17:27:08 UTC",
+    "google_url": "https://www.google.com/search?q=best+kauai+hotel+dining&oq=best+kauai+hotel+dining&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/hsvnbqbUc4x8b3Wicd0mHA/6a0deeec41ffc8d44dfebeff.html",
+    "total_time_taken": 1.12
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best kauai hotel dining",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "best kauai hotel dining",
+    "total_results": 128,
+    "time_taken_displayed": 0.54,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=best+kauai+hotel+dining&sca_esv=b05b86de3d8e65b9&hl=en&gl=us&udm=1&lsack=7O4NaoPNC6rk5NoPl8_GwQQ&sa=X&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQtgN6BAhdEAM",
+    "image": "https://serpapi.com/searches/6a0deeec41ffc8d44dfebeff/images/tMG-5vIGxYfCO6rE3530Rg.gif",
+    "gps_coordinates": {
+      "latitude": 22.085639901650328,
+      "longitude": -159.41162109375
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 4.7,
+        "reviews": 4700,
+        "reviews_original": "(4.7K)",
+        "description": "\"The crab cakes , macadamia crusted fish and wine were all wonderful.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFsr9iilKe49SMImOJopJ5MsG48-P81hlBkfLqzjiDajymcsWYHak-DLde-zWTFD4UwWuTAWyXze5-J0k20cy4njxKIGvovUWc08NzbFmW8tYsvS3JVdchkL0kjS50YqlYt5jY=w92-h92-n-k-no",
+        "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFsr9iilKe49SMImOJopJ5MsG48-P81hlBkfLqzjiDajymcsWYHak-DLde-zWTFD4UwWuTAWyXze5-J0k20cy4njxKIGvovUWc08NzbFmW8tYsvS3JVdchkL0kjS50YqlYt5jY=w1000-h1000-c-n",
+        "place_id": "11928825565946124358",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=11928825565946124358&q=best+kauai+hotel+dining",
+        "provider_id": "/m/04vxybm",
+        "gps_coordinates": {
+          "latitude": 21.876307,
+          "longitude": -159.439324
+        },
+        "title": "Grand Hyatt Kauai Resort & Spa",
+        "type": "Resort hotel",
+        "address": "Koloa, HI"
+      },
+      {
+        "position": 2,
+        "rating": 4.6,
+        "reviews": 1600,
+        "reviews_original": "(1.6K)",
+        "description": "\"Beautiful dinner at 1 Kitchen, the food and ambiance was top tier.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHwahv4pGYh2P2v5hsJr0bUFqw_BlY-KwIjmpedpBB-O-Sr7NOtyzdh7lRSNbu2Zd4m_I_gtWC4fXE5A8X1Cy70xhJNCNQckH4bD9XJNBazhZX2JgNb9n1XcQ1DMQdmYfAXm-Mh=w92-h92-n-k-no",
+        "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHwahv4pGYh2P2v5hsJr0bUFqw_BlY-KwIjmpedpBB-O-Sr7NOtyzdh7lRSNbu2Zd4m_I_gtWC4fXE5A8X1Cy70xhJNCNQckH4bD9XJNBazhZX2JgNb9n1XcQ1DMQdmYfAXm-Mh=w1000-h1000-c-n",
+        "place_id": "5086206511341339836",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=5086206511341339836&q=best+kauai+hotel+dining",
+        "provider_id": "/g/11s6j3n9ly",
+        "gps_coordinates": {
+          "latitude": 22.220633,
+          "longitude": -159.497235
+        },
+        "title": "1 Hotel Hanalei Bay",
+        "type": "Hotel",
+        "address": "Princeville, HI"
+      },
+      {
+        "position": 3,
+        "rating": 4.7,
+        "reviews": 1400,
+        "reviews_original": "(1.4K)",
+        "price": "$50\u201360",
+        "description": "\"The service was impeccable and the food and atmosphere were exceptional.\"",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEbvj2L0hI6P3fhqP4A5pd3zy-tEzF0rCoOxd_HSJy3nMc12QMpte-wZaMB3Y6ch_NrNOrboxJ3gNDQhoRJ6rgaT6daWJxciubtHfXaP0PAW0ROun6kMir5uX3MbxQRclHmcV1y=w92-h92-n-k-no",
+        "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEbvj2L0hI6P3fhqP4A5pd3zy-tEzF0rCoOxd_HSJy3nMc12QMpte-wZaMB3Y6ch_NrNOrboxJ3gNDQhoRJ6rgaT6daWJxciubtHfXaP0PAW0ROun6kMir5uX3MbxQRclHmcV1y=w1000-h1000-c-n",
+        "place_id": "6428700159860634099",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=6428700159860634099&q=best+kauai+hotel+dining",
+        "provider_id": "/g/1hc31q015",
+        "gps_coordinates": {
+          "latitude": 22.054644,
+          "longitude": -159.327142
+        },
+        "title": "Hukilau Lanai",
+        "type": "Restaurant",
+        "address": "Kapa\u02bba, HI",
+        "hours": "Closed \u00b7 Opens 5 PM"
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?q=best+kauai+hotel+dining&sca_esv=b05b86de3d8e65b9&hl=en&gl=us&udm=1&lsack=7O4NaoPNC6rk5NoPl8_GwQQ&sa=X&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQjGp6BAhbEAE"
+  },
+  "related_questions": [
+    {
+      "question": "Where did Anthony Bourdain eat in Kauai?",
+      "type": "featured_snippet",
+      "snippet": "Puka Dog is one of the most-recommended spots to eat on Kauai. Anthony Bourdain ate here and my dental hygienist recommended it too (lol).",
+      "title": "Kauai Food Guide: Where to Eat on the Garden Isle of Kauai!",
+      "date": "May 10, 2026",
+      "link": "https://www.appetitesabroad.com/kauai-food-guide/#:~:text=Puka%20Dog%20is%20one%20of,recommended%20it%20too%20(lol).",
+      "displayed_link": "https://www.appetitesabroad.com \u203a kauai-food-guide",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVWVtMXhTRXhVVEZCS00wVkZSMUY2TlhWUldIZFJVbTEwVDFsU1VWRmlNbXRxUzFVNGNWbG9WbXh3TWpsdE1ERmFkRjkyVjIxZk1EbERWRFF4VDBFNWFHRkRZWFJVUjNsYWJFMTJTMnh4YWpSMmEwWkhZa0pVTjFjNGR4SVhOMDgwVG1GdlVFNURObkpyTlU1dlVHdzRYMGQzVVZFYUlrRktTMHhHYlVrNU1GSmhWemxsVldwa05qRmhTek5QYmpJeWNtcENSRk5tU2xFIiwiZmN2IjoiMyIsImVpIjoiN080TmFvUE5DNnJrNU5vUGw4X0d3UVEiLCJxYyI6IkNoZGlaWE4wSUd0aGRXRnBJR2h2ZEdWc0lHUnBibWx1WnhBQWZSQzhBRDgiLCJxdWVzdGlvbiI6IldoZXJlIGRpZCBBbnRob255IEJvdXJkYWluIGVhdCBpbiBLYXVhaT8iLCJsayI6IkdpZDNhR1Z5WlNCa2FXUWdZVzUwYUc5dWVTQmliM1Z5WkdGcGJpQmxZWFFnYVc0Z2EyRjFZV2siLCJicyI6ImMzWE9NVXNEUVJBRllHd1hoQlFpNGFvSGdqbnRjbUFaUW1MaGlSWld4bmJpanU2U2N6ZnN6aXI1Wl80NmNXODlJd3BXMDN4djNsTVBxbDRaRGd4dE5SWk9qSGM3TEgwS21xd0RreUNmRzBwazUtUDN5LWFzbXJ6dE9RMThfWWR2ZXE0ZTFjVjF4QlN0Ri03UWtxT09MWmFVUFl0d2dCaHl1QXJrTk5vZGlRdzF6WGxWVDJGS3lneXBkVTY5Ump3WGJBci1LcG1wazVYcFcyTi14M2hKVWNxS0otXzF6X0xtdURvcV9qZUk2bDVOOGtZci0wa2VVWEpYVHQ1NXUwM3dBYmZXSko2UFB3NmJ1anExXy1qdHQtNTZQVHI0QkEiLCJpZCI6ImZjXzdPNE5hb1BOQzZyazVOb1BsOF9Hd1FRXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVWVtMXhTRXhVVEZCS00wVkZSMUY2TlhWUldIZFJVbTEwVDFsU1VWRmlNbXRxUzFVNGNWbG9WbXh3TWpsdE1ERmFkRjkyVjIxZk1EbERWRFF4VDBFNWFHRkRZWFJVUjNsYWJFMTJTMnh4YWpSMmEwWkhZa0pVTjFjNGR4SVhOMDgwVG1GdlVFNURObkpyTlU1dlVHdzRYMGQzVVZFYUlrRktTMHhHYlVrNU1GSmhWemxsVldwa05qRmhTek5QYmpJeWNtcENSRk5tU2xFIiwiZmN2IjoiMyIsImVpIjoiN080TmFvUE5DNnJrNU5vUGw4X0d3UVEiLCJxYyI6IkNoZGlaWE4wSUd0aGRXRnBJR2h2ZEdWc0lHUnBibWx1WnhBQWZSQzhBRDgiLCJxdWVzdGlvbiI6IldoZXJlIGRpZCBBbnRob255IEJvdXJkYWluIGVhdCBpbiBLYXVhaT8iLCJsayI6IkdpZDNhR1Z5WlNCa2FXUWdZVzUwYUc5dWVTQmliM1Z5WkdGcGJpQmxZWFFnYVc0Z2EyRjFZV2siLCJicyI6ImMzWE9NVXNEUVJBRllHd1hoQlFpNGFvSGdqbnRjbUFaUW1MaGlSWld4bmJpanU2U2N6ZnN6aXI1Wl80NmNXODlJd3BXMDN4djNsTVBxbDRaRGd4dE5SWk9qSGM3TEgwS21xd0RreUNmRzBwazUtUDN5LWFzbXJ6dE9RMThfWWR2ZXE0ZTFjVjF4QlN0Ri03UWtxT09MWmFVUFl0d2dCaHl1QXJrTk5vZGlRdzF6WGxWVDJGS3lneXBkVTY5Ump3WGJBci1LcG1wazVYcFcyTi14M2hKVWNxS0otXzF6X0xtdURvcV9qZUk2bDVOOGtZci0wa2VVWEpYVHQ1NXUwM3dBYmZXSko2UFB3NmJ1anExXy1qdHQtNTZQVHI0QkEiLCJpZCI6ImZjXzdPNE5hb1BOQzZyazVOb1BsOF9Hd1FRXzQifQ%3D%3D"
+    },
+    {
+      "question": "Is 1 Hotel Hanalei Bay better than Grand Hyatt Kauai?",
+      "type": "ai_overview",
+      "page_token": "ERWk43icHdBLcoIwAIDh6WVcaiNiqzNOZxCCL6CEPCCbDiZolERQUdRd79JT9TR1uvu33__9o3eH8vflqpqmPo97vbZtu9uq2uqiKyrTy8_3g-iJXOt1Lsrx8G0IPjZi4l3mzvQ4d2ICLsEd2ETTKXMlRzNkcz9UgsFKah5FqWOYyeyCKotCTRnUNtdOlr-OTKgXipTaRoanCZZ9DBfnJFUam7rknrwH5FbnliwjV7nPDmgKU0ydkwDUp-a2R0RGCCirIIsZhaGf7cCQ-SBMSHuPyfsgp5kd7uEye6hB4aIgZ9Iv9nTJDf0UpcqZuc0Jo5B6cBWw-ljAWlMSYgpCy1PCwg8UZWwU4zLoC3MG2Izitas2yJKIoGoXk3qFPd4kaT3jVnhKNDSFacCKQYfvn36GLmu_alEJjrLtbMR1YnX-f06-NqYZ16dq-wc_h4PY",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ERWk43icHdBLcoIwAIDh6WVcaiNiqzNOZxCCL6CEPCCbDiZolERQUdRd79JT9TR1uvu33__9o3eH8vflqpqmPo97vbZtu9uq2uqiKyrTy8_3g-iJXOt1Lsrx8G0IPjZi4l3mzvQ4d2ICLsEd2ETTKXMlRzNkcz9UgsFKah5FqWOYyeyCKotCTRnUNtdOlr-OTKgXipTaRoanCZZ9DBfnJFUam7rknrwH5FbnliwjV7nPDmgKU0ydkwDUp-a2R0RGCCirIIsZhaGf7cCQ-SBMSHuPyfsgp5kd7uEye6hB4aIgZ9Iv9nTJDf0UpcqZuc0Jo5B6cBWw-ljAWlMSYgpCy1PCwg8UZWwU4zLoC3MG2Izitas2yJKIoGoXk3qFPd4kaT3jVnhKNDSFacCKQYfvn36GLmu_alEJjrLtbMR1YnX-f06-NqYZ16dq-wc_h4PY",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVWVtMXhTRXhVVEZCS00wVkZSMUY2TlhWUldIZFJVbTEwVDFsU1VWRmlNbXRxUzFVNGNWbG9WbXh3TWpsdE1ERmFkRjkyVjIxZk1EbERWRFF4VDBFNWFHRkRZWFJVUjNsYWJFMTJTMnh4YWpSMmEwWkhZa0pVTjFjNGR4SVhOMDgwVG1GdlVFNURObkpyTlU1dlVHdzRYMGQzVVZFYUlrRktTMHhHYlVrNU1GSmhWemxsVldwa05qRmhTek5QYmpJeWNtcENSRk5tU2xFIiwiZmN2IjoiMyIsImVpIjoiN080TmFvUE5DNnJrNU5vUGw4X0d3UVEiLCJxYyI6IkNoZGlaWE4wSUd0aGRXRnBJR2h2ZEdWc0lHUnBibWx1WnhBQWZSQzhBRDgiLCJxdWVzdGlvbiI6IklzIDEgSG90ZWwgSGFuYWxlaSBCYXkgYmV0dGVyIHRoYW4gR3JhbmQgSHlhdHQgS2F1YWk/IiwibGsiOiJHaWd4SUdodmRHVnNJR2hoYm1Gc1pXa2dZbUY1SUhaeklHZHlZVzVrSUdoNVlYUjBJR3RoZFdGcCIsImJzIjoiYzNYT01Vc0RRUkFGWUd3WGhCUWk0YW9IZ2pudGNtQVpRbUxoaVJaV3huYmlqdTZTY3pmc3ppcjVaXzQ2Y1c4OUl3cFcwM3h2M2xNUHFsNFpEZ3h0TlJaT2pIYzdMSDBLbXF3RGt5Q2ZHMHBrNS1QM3ktYXNtcnp0T1ExOF9ZZHZlcTRlMWNWMXhCU3RGLTdRa3FPT0xaYVVQWXR3Z0JoeXVBcmtOTm9kaVF3MXpYbFZUMkZLeWd5cGRVNjlSandYYkFyLUtwbXBrNVhwVzJOLXgzaEpVY3FLSi1fMXpfTG11RG9xX2plSTZsNU44a1lyLTBrZVVYSlhUdDU1dTAzd0FiZldKSjZQUHc2YnVqcTFfLWp0dC01NlBUcjRCQSIsImlkIjoiZmNfN080TmFvUE5DNnJrNU5vUGw4X0d3UVFfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVWVtMXhTRXhVVEZCS00wVkZSMUY2TlhWUldIZFJVbTEwVDFsU1VWRmlNbXRxUzFVNGNWbG9WbXh3TWpsdE1ERmFkRjkyVjIxZk1EbERWRFF4VDBFNWFHRkRZWFJVUjNsYWJFMTJTMnh4YWpSMmEwWkhZa0pVTjFjNGR4SVhOMDgwVG1GdlVFNURObkpyTlU1dlVHdzRYMGQzVVZFYUlrRktTMHhHYlVrNU1GSmhWemxsVldwa05qRmhTek5QYmpJeWNtcENSRk5tU2xFIiwiZmN2IjoiMyIsImVpIjoiN080TmFvUE5DNnJrNU5vUGw4X0d3UVEiLCJxYyI6IkNoZGlaWE4wSUd0aGRXRnBJR2h2ZEdWc0lHUnBibWx1WnhBQWZSQzhBRDgiLCJxdWVzdGlvbiI6IklzIDEgSG90ZWwgSGFuYWxlaSBCYXkgYmV0dGVyIHRoYW4gR3JhbmQgSHlhdHQgS2F1YWk%2FIiwibGsiOiJHaWd4SUdodmRHVnNJR2hoYm1Gc1pXa2dZbUY1SUhaeklHZHlZVzVrSUdoNVlYUjBJR3RoZFdGcCIsImJzIjoiYzNYT01Vc0RRUkFGWUd3WGhCUWk0YW9IZ2pudGNtQVpRbUxoaVJaV3huYmlqdTZTY3pmc3ppcjVaXzQ2Y1c4OUl3cFcwM3h2M2xNUHFsNFpEZ3h0TlJaT2pIYzdMSDBLbXF3RGt5Q2ZHMHBrNS1QM3ktYXNtcnp0T1ExOF9ZZHZlcTRlMWNWMXhCU3RGLTdRa3FPT0xaYVVQWXR3Z0JoeXVBcmtOTm9kaVF3MXpYbFZUMkZLeWd5cGRVNjlSandYYkFyLUtwbXBrNVhwVzJOLXgzaEpVY3FLSi1fMXpfTG11RG9xX2plSTZsNU44a1lyLTBrZVVYSlhUdDU1dTAzd0FiZldKSjZQUHc2YnVqcTFfLWp0dC01NlBUcjRCQSIsImlkIjoiZmNfN080TmFvUE5DNnJrNU5vUGw4X0d3UVFfNCJ9"
+    },
+    {
+      "question": "What is the must eat food in Kauai?",
+      "type": "ai_overview",
+      "page_token": "wDNYfnicHdDPToMwHADg-DI7Ct1kZksWI_JnVimjtL9hLwbKGJNCyWAyuPkuPpVPo_H2nb-vb3Vqqp-bpOz7tlsbxjAMt0etj-pwK3VtpN3YSEOmSmWprNbL-yV6KOTG7Qb7SQ92xNElGJEF_iohnof5HqL9xyN6A1LkSRlQ8w4FjZjvgXJwwEp5vou3akkXohe-2gWm4uBjLRt8YiwnEug5c8oXXikfGNG0lldSXZuU4QnmK8InbGUAPU-IYMgG5pQRPSE_c9ElrttJcHdIzPaZJjSKF61-ZWDzGlPmu4jX3QQJhpR5aW5WsTflO-JaZYbsMJrEmE4Q_rkLvdU2Rx71T9iOqz6gNcKCActADQfAFoBrstoSoZNjMSIi3aqPG4_OCvm5Wcz-xzbvRd2v27M-_gKsy3f-",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=wDNYfnicHdDPToMwHADg-DI7Ct1kZksWI_JnVimjtL9hLwbKGJNCyWAyuPkuPpVPo_H2nb-vb3Vqqp-bpOz7tlsbxjAMt0etj-pwK3VtpN3YSEOmSmWprNbL-yV6KOTG7Qb7SQ92xNElGJEF_iohnof5HqL9xyN6A1LkSRlQ8w4FjZjvgXJwwEp5vou3akkXohe-2gWm4uBjLRt8YiwnEug5c8oXXikfGNG0lldSXZuU4QnmK8InbGUAPU-IYMgG5pQRPSE_c9ElrttJcHdIzPaZJjSKF61-ZWDzGlPmu4jX3QQJhpR5aW5WsTflO-JaZYbsMJrEmE4Q_rkLvdU2Rx71T9iOqz6gNcKCActADQfAFoBrstoSoZNjMSIi3aqPG4_OCvm5Wcz-xzbvRd2v27M-_gKsy3f-",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVWVtMXhTRXhVVEZCS00wVkZSMUY2TlhWUldIZFJVbTEwVDFsU1VWRmlNbXRxUzFVNGNWbG9WbXh3TWpsdE1ERmFkRjkyVjIxZk1EbERWRFF4VDBFNWFHRkRZWFJVUjNsYWJFMTJTMnh4YWpSMmEwWkhZa0pVTjFjNGR4SVhOMDgwVG1GdlVFNURObkpyTlU1dlVHdzRYMGQzVVZFYUlrRktTMHhHYlVrNU1GSmhWemxsVldwa05qRmhTek5QYmpJeWNtcENSRk5tU2xFIiwiZmN2IjoiMyIsImVpIjoiN080TmFvUE5DNnJrNU5vUGw4X0d3UVEiLCJxYyI6IkNoZGlaWE4wSUd0aGRXRnBJR2h2ZEdWc0lHUnBibWx1WnhBQWZSQzhBRDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG11c3QgZWF0IGZvb2QgaW4gS2F1YWk/IiwibGsiOiJHaFJyWVhWaGFTQnRkWE4wSUdWaGRDQm1iMjlrY3ciLCJicyI6ImMzWE9NVXNEUVJBRllHd1hoQlFpNGFvSGdqbnRjbUFaUW1MaGlSWld4bmJpanU2U2N6ZnN6aXI1Wl80NmNXODlJd3BXMDN4djNsTVBxbDRaRGd4dE5SWk9qSGM3TEgwS21xd0RreUNmRzBwazUtUDN5LWFzbXJ6dE9RMThfWWR2ZXE0ZTFjVjF4QlN0Ri03UWtxT09MWmFVUFl0d2dCaHl1QXJrTk5vZGlRdzF6WGxWVDJGS3lneXBkVTY5Ump3WGJBci1LcG1wazVYcFcyTi14M2hKVWNxS0otXzF6X0xtdURvcV9qZUk2bDVOOGtZci0wa2VVWEpYVHQ1NXUwM3dBYmZXSko2UFB3NmJ1anExXy1qdHQtNTZQVHI0QkEiLCJpZCI6ImZjXzdPNE5hb1BOQzZyazVOb1BsOF9Hd1FRXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVWVtMXhTRXhVVEZCS00wVkZSMUY2TlhWUldIZFJVbTEwVDFsU1VWRmlNbXRxUzFVNGNWbG9WbXh3TWpsdE1ERmFkRjkyVjIxZk1EbERWRFF4VDBFNWFHRkRZWFJVUjNsYWJFMTJTMnh4YWpSMmEwWkhZa0pVTjFjNGR4SVhOMDgwVG1GdlVFNURObkpyTlU1dlVHdzRYMGQzVVZFYUlrRktTMHhHYlVrNU1GSmhWemxsVldwa05qRmhTek5QYmpJeWNtcENSRk5tU2xFIiwiZmN2IjoiMyIsImVpIjoiN080TmFvUE5DNnJrNU5vUGw4X0d3UVEiLCJxYyI6IkNoZGlaWE4wSUd0aGRXRnBJR2h2ZEdWc0lHUnBibWx1WnhBQWZSQzhBRDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG11c3QgZWF0IGZvb2QgaW4gS2F1YWk%2FIiwibGsiOiJHaFJyWVhWaGFTQnRkWE4wSUdWaGRDQm1iMjlrY3ciLCJicyI6ImMzWE9NVXNEUVJBRllHd1hoQlFpNGFvSGdqbnRjbUFaUW1MaGlSWld4bmJpanU2U2N6ZnN6aXI1Wl80NmNXODlJd3BXMDN4djNsTVBxbDRaRGd4dE5SWk9qSGM3TEgwS21xd0RreUNmRzBwazUtUDN5LWFzbXJ6dE9RMThfWWR2ZXE0ZTFjVjF4QlN0Ri03UWtxT09MWmFVUFl0d2dCaHl1QXJrTk5vZGlRdzF6WGxWVDJGS3lneXBkVTY5Ump3WGJBci1LcG1wazVYcFcyTi14M2hKVWNxS0otXzF6X0xtdURvcV9qZUk2bDVOOGtZci0wa2VVWEpYVHQ1NXUwM3dBYmZXSko2UFB3NmJ1anExXy1qdHQtNTZQVHI0QkEiLCJpZCI6ImZjXzdPNE5hb1BOQzZyazVOb1BsOF9Hd1FRXzQifQ%3D%3D"
+    },
+    {
+      "question": "Is it better to stay in Poipu or Lihue?",
+      "type": "featured_snippet",
+      "snippet": "Princeville and Poipu are the best areas to stay in Kauai for most visitors. This is especially true for family vacations, romantic getaways, and holidays. Wailua and Lihue are appealing options for budget travelers specifically.",
+      "title": "Where to Stay on Kauai: Pros & Cons of Each Area (2024)",
+      "date": "May 30, 2025",
+      "link": "https://www.wedreamoftravel.com/where-to-stay-on-kauai/#:~:text=Princeville%20and%20Poipu%20are%20the,options%20for%20budget%20travelers%20specifically.",
+      "displayed_link": "https://www.wedreamoftravel.com \u203a where-to-stay-on-ka...",
+      "source_logo": "https://serpapi.com/searches/6a0deeec41ffc8d44dfebeff/images/qM1dHw0OUVQNioYjjq643dK0lQvxWJvAzY91wHKKRX0.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVWVtMXhTRXhVVEZCS00wVkZSMUY2TlhWUldIZFJVbTEwVDFsU1VWRmlNbXRxUzFVNGNWbG9WbXh3TWpsdE1ERmFkRjkyVjIxZk1EbERWRFF4VDBFNWFHRkRZWFJVUjNsYWJFMTJTMnh4YWpSMmEwWkhZa0pVTjFjNGR4SVhOMDgwVG1GdlVFNURObkpyTlU1dlVHdzRYMGQzVVZFYUlrRktTMHhHYlVrNU1GSmhWemxsVldwa05qRmhTek5QYmpJeWNtcENSRk5tU2xFIiwiZmN2IjoiMyIsImVpIjoiN080TmFvUE5DNnJrNU5vUGw4X0d3UVEiLCJxYyI6IkNoZGlaWE4wSUd0aGRXRnBJR2h2ZEdWc0lHUnBibWx1WnhBQWZSQzhBRDgiLCJxdWVzdGlvbiI6IklzIGl0IGJldHRlciB0byBzdGF5IGluIFBvaXB1IG9yIExpaHVlPyIsImxrIjoiR2lacGN5QnBkQ0JpWlhSMFpYSWdkRzhnYzNSaGVTQnBiaUJ3YjJsd2RTQnZjaUJzYVdoMVpRIiwiYnMiOiJjM1hPTVVzRFFSQUZZR3dYaEJRaTRhb0hnam50Y21BWlFtTGhpUlpXeG5iaWp1NlNjemZzemlyNVpfNDZjVzg5SXdwVzAzeHYzbE1QcWw0WkRneHROUlpPakhjN0xIMEttcXdEa3lDZkcwcGs1LVAzeS1hc21yenRPUTE4X1lkdmVxNGUxY1YxeEJTdEYtN1FrcU9PTFphVVBZdHdnQmh5dUFya05Ob2RpUXcxelhsVlQyRkt5Z3lwZFU2OVJqd1hiQXItS3BtcGs1WHBXMk4teDNoSlVjcUtKLV8xel9MbXVEb3FfamVJNmw1TjhrWXItMGtlVVhKWFR0NTV1MDN3QWJmV0pKNlBQdzZidWpxMV8tanR0LTU2UFRyNEJBIiwiaWQiOiJmY183TzROYW9QTkM2cms1Tm9QbDhfR3dRUV80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUVzR6TFhsVWVtMXhTRXhVVEZCS00wVkZSMUY2TlhWUldIZFJVbTEwVDFsU1VWRmlNbXRxUzFVNGNWbG9WbXh3TWpsdE1ERmFkRjkyVjIxZk1EbERWRFF4VDBFNWFHRkRZWFJVUjNsYWJFMTJTMnh4YWpSMmEwWkhZa0pVTjFjNGR4SVhOMDgwVG1GdlVFNURObkpyTlU1dlVHdzRYMGQzVVZFYUlrRktTMHhHYlVrNU1GSmhWemxsVldwa05qRmhTek5QYmpJeWNtcENSRk5tU2xFIiwiZmN2IjoiMyIsImVpIjoiN080TmFvUE5DNnJrNU5vUGw4X0d3UVEiLCJxYyI6IkNoZGlaWE4wSUd0aGRXRnBJR2h2ZEdWc0lHUnBibWx1WnhBQWZSQzhBRDgiLCJxdWVzdGlvbiI6IklzIGl0IGJldHRlciB0byBzdGF5IGluIFBvaXB1IG9yIExpaHVlPyIsImxrIjoiR2lacGN5QnBkQ0JpWlhSMFpYSWdkRzhnYzNSaGVTQnBiaUJ3YjJsd2RTQnZjaUJzYVdoMVpRIiwiYnMiOiJjM1hPTVVzRFFSQUZZR3dYaEJRaTRhb0hnam50Y21BWlFtTGhpUlpXeG5iaWp1NlNjemZzemlyNVpfNDZjVzg5SXdwVzAzeHYzbE1QcWw0WkRneHROUlpPakhjN0xIMEttcXdEa3lDZkcwcGs1LVAzeS1hc21yenRPUTE4X1lkdmVxNGUxY1YxeEJTdEYtN1FrcU9PTFphVVBZdHdnQmh5dUFya05Ob2RpUXcxelhsVlQyRkt5Z3lwZFU2OVJqd1hiQXItS3BtcGs1WHBXMk4teDNoSlVjcUtKLV8xel9MbXVEb3FfamVJNmw1TjhrWXItMGtlVVhKWFR0NTV1MDN3QWJmV0pKNlBQdzZidWpxMV8tanR0LTU2UFRyNEJBIiwiaWQiOiJmY183TzROYW9QTkM2cms1Tm9QbDhfR3dRUV80In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "R42DH3icxVZbcqM4FP2ffQw_6Rjb-IFTRXVJgjj4GZK44-SHAoEFNlgOAhz33-xldjK7mNWMAJMYx05qumpqVIke10f3Id2jyx9_Bv569fdvf3lxvGFXorjdbmuEUhK4NUxD0WK7NRYXNGAR9r4zmkTY9R0FexENXcELFHctkEBJmLBLFUnATGkIrq90p62JRW8nqBOt2hN6G8hmf2sYQq5OMW2LuUtu7XXJRFPk3ep3SeWLGqu569rr-saGqL2ZTre1Zr3Rq01FK-QA8N81gvRsgDrIR_0DYAwAIgCfVaCjrDf4f_1NhgDK-8PWBzAHGjD7gf-RU9q4H5kc9WGGlkeLV9X5KgRkVJbXhWL6UISjwb17x-2k_TJ-mventuUWz8jQXif-DFsKvEMHMnsjmXdQe5O1Sp_gfsKIlrldIDAB8g2FKvzkbjjyegxaq9sdOBNvCURDhlbFfKw-8mMQHcITry7aER8aoo89nE8iluUjeujVqeYSc6I_O-jJf9gEXR9rMbAGE2ZKN1sR2xwXUMtxHdMz69_zdaPZaNd7Ulf-lhMBszcmsEMmwGCg61Ce7Pyn2qgGG-80QHnspBqKxjMLfggpvz2jev7wxKy6dbjvoWYcbNQhuuQ2iYoLtWOgEnCNqkZLfEGDHT9DVDFeOr2nQZFqxMiv88hPjtFIGdq-TY_DI9UpJOA-I-teUnkz9OMwtYGRi7b5agyqYAT0Icgd3OwpALeHgNJVWDitQQS0Mm0LSTHH7y7qJHdAf4I0D27GgRrIyA5zRXvvXsCHm9SeKku0VVO--0T7-HQdN_olAuhlwh_l72He9_2f3TSJb5ZyL3ykScNoXXZe52s3CDvgdJ7T0P4XTz7-X5lQFoRhfqBD_RQT0GdM0BEChwXhnQmlnsLp94KQJRQiBjnJBF07LgiL4_COmeAbFSZ8WhAOmEC-ZoJxhgnqGSaUb-ohE_xzTMgKQoUJRwVBqxaEkgm_UhDSXykIOS_cYqhWh2RJzleJ-x94oROp3VqyVL6Vlq2B3Opem_dY_7pKLML4ynKCb6bvXMHmIN45wotiuyy-WFmJ5V94NHaDC8df-2sihEFElbrVnara3TCR5ovGg7sDcPfsmz8ADUf6pTbS56Nmos3CaNomfQwu400zaGnpVBqO-9Nx79VIbSm0e9fP9yBK6rOZpfaj52Fbf_kReZPWTE37vjTS1ygJvN1oPHdks6mhR5MM0nA9D8bUS0d39fhhRokWzp-bd2SeGLljTPHYZTvA46SzXAmh5TCXfzCGEVZ4nrQouDPAY_aZhZ6AwT8jDER5sgkMW6bLUsWut22547iSI7udtt0TQhLvNkqnLbB1pDT-Aay3EQ8",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=R42DH3icxVZbcqM4FP2ffQw_6Rjb-IFTRXVJgjj4GZK44-SHAoEFNlgOAhz33-xldjK7mNWMAJMYx05qumpqVIke10f3Id2jyx9_Bv569fdvf3lxvGFXorjdbmuEUhK4NUxD0WK7NRYXNGAR9r4zmkTY9R0FexENXcELFHctkEBJmLBLFUnATGkIrq90p62JRW8nqBOt2hN6G8hmf2sYQq5OMW2LuUtu7XXJRFPk3ep3SeWLGqu569rr-saGqL2ZTre1Zr3Rq01FK-QA8N81gvRsgDrIR_0DYAwAIgCfVaCjrDf4f_1NhgDK-8PWBzAHGjD7gf-RU9q4H5kc9WGGlkeLV9X5KgRkVJbXhWL6UISjwb17x-2k_TJ-mventuUWz8jQXif-DFsKvEMHMnsjmXdQe5O1Sp_gfsKIlrldIDAB8g2FKvzkbjjyegxaq9sdOBNvCURDhlbFfKw-8mMQHcITry7aER8aoo89nE8iluUjeujVqeYSc6I_O-jJf9gEXR9rMbAGE2ZKN1sR2xwXUMtxHdMz69_zdaPZaNd7Ulf-lhMBszcmsEMmwGCg61Ce7Pyn2qgGG-80QHnspBqKxjMLfggpvz2jev7wxKy6dbjvoWYcbNQhuuQ2iYoLtWOgEnCNqkZLfEGDHT9DVDFeOr2nQZFqxMiv88hPjtFIGdq-TY_DI9UpJOA-I-teUnkz9OMwtYGRi7b5agyqYAT0Icgd3OwpALeHgNJVWDitQQS0Mm0LSTHH7y7qJHdAf4I0D27GgRrIyA5zRXvvXsCHm9SeKku0VVO--0T7-HQdN_olAuhlwh_l72He9_2f3TSJb5ZyL3ykScNoXXZe52s3CDvgdJ7T0P4XTz7-X5lQFoRhfqBD_RQT0GdM0BEChwXhnQmlnsLp94KQJRQiBjnJBF07LgiL4_COmeAbFSZ8WhAOmEC-ZoJxhgnqGSaUb-ohE_xzTMgKQoUJRwVBqxaEkgm_UhDSXykIOS_cYqhWh2RJzleJ-x94oROp3VqyVL6Vlq2B3Opem_dY_7pKLML4ynKCb6bvXMHmIN45wotiuyy-WFmJ5V94NHaDC8df-2sihEFElbrVnara3TCR5ovGg7sDcPfsmz8ADUf6pTbS56Nmos3CaNomfQwu400zaGnpVBqO-9Nx79VIbSm0e9fP9yBK6rOZpfaj52Fbf_kReZPWTE37vjTS1ygJvN1oPHdks6mhR5MM0nA9D8bUS0d39fhhRokWzp-bd2SeGLljTPHYZTvA46SzXAmh5TCXfzCGEVZ4nrQouDPAY_aZhZ6AwT8jDER5sgkMW6bLUsWut22547iSI7udtt0TQhLvNkqnLbB1pDT-Aay3EQ8"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Kauai's Best Restaurants",
+      "link": "https://www.jsfashionista.com/kauais-best-restaurants-my-ultimate-guide-to-dining-on-the-garden-isle/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.jsfashionista.com/kauais-best-restaurants-my-ultimate-guide-to-dining-on-the-garden-isle/&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQFnoECB8QAQ",
+      "displayed_link": "https://www.jsfashionista.com \u203a kauais-best-restaurants-...",
+      "favicon": "https://serpapi.com/searches/6a0deeec41ffc8d44dfebeff/images/VJaPuenp7uOlLIcC9icQ-ILOK5huDZN026Lq-hzE4bg.png",
+      "snippet": "From silky sushi at sunset to steaming ramen on a rainy afternoon \u2014 here's where to eat on Kauai right now.",
+      "snippet_highlighted_words": [
+        "here's where to eat on Kauai right now"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "From silky sushi at sunset to steaming ramen on a rainy afternoon \u2014 here's where to eat on Kauai right now.",
+          "source_info_link": "https://www.jsfashionista.com/kauais-best-restaurants-my-ultimate-guide-to-dining-on-the-garden-isle/",
+          "icon": "https://serpapi.com/searches/6a0deeec41ffc8d44dfebeff/images/VJaPuenp7uOlLIcC9icQ-PH1EpfHG8lI1V2M7Cji8aQq8lSMK73UFZ8zfNvblNLW.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.jsfashionista.com/kauais-best-restaurants-my-ultimate-guide-to-dining-on-the-garden-isle/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.jsfashionista.com%2Fkauais-best-restaurants-my-ultimate-guide-to-dining-on-the-garden-isle%2F",
+      "source": "The JetSetting Fashionista"
+    },
+    {
+      "position": 2,
+      "title": "Kauai Food Guide: Where to Eat on the Garden Isle of Kauai!",
+      "link": "https://www.appetitesabroad.com/kauai-food-guide/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.appetitesabroad.com/kauai-food-guide/&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQFnoECCUQAQ",
+      "displayed_link": "https://www.appetitesabroad.com \u203a kauai-food-guide",
+      "favicon": "https://serpapi.com/searches/6a0deeec41ffc8d44dfebeff/images/VJaPuenp7uOlLIcC9icQ-G-GGsxYh9pEMl9z5_wQDr0.png",
+      "date": "May 10, 2026",
+      "snippet": "Where to Eat on Kauai \u00b7 Break + Feast \u00b7 The Musubi Truck \u00b7 Kauai Bakery \u00b7 Puka Dog \u00b7 Kauai Island Brewing \u00b7 Stevenson's Library \u00b7 Porky's \u00b7 Wishing Well ...",
+      "snippet_highlighted_words": [
+        "Break + Feast"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Where to Eat on Kauai \u00b7 Break + Feast \u00b7 The Musubi Truck \u00b7 Kauai Bakery \u00b7 Puka Dog \u00b7 Kauai Island Brewing \u00b7 Stevenson's Library \u00b7 Porky's \u00b7 Wishing Well ...",
+          "source_info_link": "https://www.appetitesabroad.com/kauai-food-guide/",
+          "icon": "https://serpapi.com/searches/6a0deeec41ffc8d44dfebeff/images/VJaPuenp7uOlLIcC9icQ-CiODva9dijyvYi98WKCQcVT6afHrHiUP8DIAg0ePU-Q.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.appetitesabroad.com/kauai-food-guide/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.appetitesabroad.com%2Fkauai-food-guide%2F",
+      "source": "Appetites Abroad"
+    },
+    {
+      "position": 3,
+      "title": "What is the best luxury resort on Kauai for fine dining with a ...",
+      "link": "https://www.facebook.com/groups/1478535869139825/posts/4091190231207696/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/1478535869139825/posts/4091190231207696/&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQFnoECC8QAQ",
+      "displayed_link": "100+ comments \u00b7 11 months ago",
+      "favicon": "https://serpapi.com/searches/6a0deeec41ffc8d44dfebeff/images/VJaPuenp7uOlLIcC9icQ-AMwgyM21Y3dEtYzP-bfBLQ.png",
+      "snippet": "What is the best luxury resort on Kauai? I want fine dining outdoors with a tropical garden setting and a view of the ocean. I am not looking to book ...",
+      "about_this_result": {
+        "source": {
+          "description": "You can find a reasonably priced condo at Hanalei Bay Resort-enjoy the views, pool, snd landscaping there and easily have a meal or drinks at ...",
+          "source_info_link": "https://www.facebook.com/groups/1478535869139825/posts/4091190231207696/",
+          "icon": "https://serpapi.com/searches/6a0deeec41ffc8d44dfebeff/images/VJaPuenp7uOlLIcC9icQ-HxfNyyZZUKl-Q4kOKMTUI96K0T6x5HMgsoJxWRRapzO.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/1478535869139825/posts/4091190231207696/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1478535869139825%2Fposts%2F4091190231207696%2F",
+      "source": "Facebook \u00b7 Everything Kauai"
+    },
+    {
+      "position": 4,
+      "title": "Best Kauai food and restaurant : r/VisitingHawaii",
+      "link": "https://www.reddit.com/r/VisitingHawaii/comments/1flqroe/best_kauai_food_and_restaurant/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/VisitingHawaii/comments/1flqroe/best_kauai_food_and_restaurant/&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQFnoECDEQAQ",
+      "displayed_link": "140+ comments \u00b7 1 year ago",
+      "favicon": "https://serpapi.com/searches/6a0deeec41ffc8d44dfebeff/images/VJaPuenp7uOlLIcC9icQ-OFkCL1JRUcO40Q-7PwFS2g.png",
+      "snippet": "Our favorite meals BY FAR were both in Kapaa and recommended by her: JO2 Natural Foods (in a strip center and an amazing 3-course deal early) ...",
+      "snippet_highlighted_words": [
+        "JO2 Natural Foods"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Best restaurants in Kauai for a fancy dinner : r ...",
+            "link": "https://www.reddit.com/r/VisitingHawaii/comments/1ksallk/best_restaurants_in_kauai_for_a_fancy_dinner/",
+            "answer_count": 56,
+            "date": "May 21, 2025"
+          },
+          {
+            "title": "Kauai Hotel pro & cons : r/VisitingHawaii - Reddit",
+            "link": "https://www.reddit.com/r/VisitingHawaii/comments/1hleku0/kauai_hotel_pro_cons/",
+            "answer_count": 22,
+            "date": "Dec 24, 2024"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Our favorite meals BY FAR were both in Kapaa and recommended by her: JO2 Natural Foods (in a strip center and an amazing 3-course deal early) ...",
+          "source_info_link": "https://www.reddit.com/r/VisitingHawaii/comments/1flqroe/best_kauai_food_and_restaurant/",
+          "icon": "https://serpapi.com/searches/6a0deeec41ffc8d44dfebeff/images/VJaPuenp7uOlLIcC9icQ-KSU3s4in1jEJZ4LzG1SqpV-nC561idLzkty5w4Hpnta.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/VisitingHawaii/comments/1flqroe/best_kauai_food_and_restaurant/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FVisitingHawaii%2Fcomments%2F1flqroe%2Fbest_kauai_food_and_restaurant%2F",
+      "source": "Reddit \u00b7 r/VisitingHawaii"
+    },
+    {
+      "position": 5,
+      "title": "9 of the Best Kauai Hotels With Restaurants On Site -",
+      "link": "https://kauaimyway.com/kauai-hotels-with-restaurants/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kauaimyway.com/kauai-hotels-with-restaurants/&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQFnoECCsQAQ",
+      "displayed_link": "https://kauaimyway.com \u203a kauai-hotels-with-restaurants",
+      "favicon": "https://serpapi.com/searches/6a0deeec41ffc8d44dfebeff/images/VJaPuenp7uOlLIcC9icQ-HszrUZvMEgmOo-Jlua_-o8.png",
+      "snippet": "Oasis on the Beach is the premier restaurant located at Waipoli Beach Resort in Kapa'a. They offer fine dining in an open air setting with gorgeous ocean views.",
+      "snippet_highlighted_words": [
+        "Oasis on the Beach"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Oasis on the Beach is the premier restaurant located at Waipoli Beach Resort in Kapa'a. They offer fine dining in an open air setting with gorgeous ocean views.",
+          "source_info_link": "https://kauaimyway.com/kauai-hotels-with-restaurants/",
+          "icon": "https://serpapi.com/searches/6a0deeec41ffc8d44dfebeff/images/VJaPuenp7uOlLIcC9icQ-CX73fegcG8jKPR6iuSpofGCK1_l7MSkOHu5gNkihAcq.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kauaimyway.com/kauai-hotels-with-restaurants/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkauaimyway.com%2Fkauai-hotels-with-restaurants%2F",
+      "source": "Kauai My Way"
+    },
+    {
+      "position": 6,
+      "title": "Where to Stay in Kauai: The Best Areas and Hotels",
+      "link": "https://www.neverendingvoyage.com/where-to-stay-in-kauai/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.neverendingvoyage.com/where-to-stay-in-kauai/&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQFnoECC4QAQ",
+      "displayed_link": "https://www.neverendingvoyage.com \u203a where-to-stay-i...",
+      "favicon": "https://serpapi.com/searches/6a0deeec41ffc8d44dfebeff/images/VJaPuenp7uOlLIcC9icQ-OIRRedGKD0KxmAZoFiboGI.png",
+      "date": "Feb 11, 2026",
+      "snippet": "A detailed guide to where to stay in Kauai including a comparison of the different areas and reviews of the best Kauai resorts and condos.",
+      "snippet_highlighted_words": [
+        "Kauai",
+        "reviews",
+        "best Kauai"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Choosing The Best Area to...",
+            "link": "https://www.neverendingvoyage.com/where-to-stay-in-kauai/#thebestareatostayinkauai"
+          },
+          {
+            "title": "Types and Prices of Kauai...",
+            "link": "https://www.neverendingvoyage.com/where-to-stay-in-kauai/#typesandpricesofkauaihotelsandrentals"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "A detailed guide to where to stay in Kauai including a comparison of the different areas and reviews of the best Kauai resorts and condos.",
+          "source_info_link": "https://www.neverendingvoyage.com/where-to-stay-in-kauai/",
+          "icon": "https://serpapi.com/searches/6a0deeec41ffc8d44dfebeff/images/VJaPuenp7uOlLIcC9icQ-JgJWCDhtfnUxorzC6SsizOu9VJ-D034Y9AN655G6jnJ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.neverendingvoyage.com/where-to-stay-in-kauai/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.neverendingvoyage.com%2Fwhere-to-stay-in-kauai%2F",
+      "source": "Never Ending Voyage"
+    },
+    {
+      "position": 7,
+      "title": "What's your favorite restaurant on Kauai? - Kauai Forum",
+      "link": "https://www.tripadvisor.com/ShowTopic-g29218-i304-k6923021-What_s_your_favorite_restaurant_on_Kauai-Kauai_Hawaii.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tripadvisor.com/ShowTopic-g29218-i304-k6923021-What_s_your_favorite_restaurant_on_Kauai-Kauai_Hawaii.html&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQFnoECC0QAQ",
+      "displayed_link": "https://www.tripadvisor.com \u203a ... \u203a United States \u203a Hawaii",
+      "favicon": "https://serpapi.com/searches/6a0deeec41ffc8d44dfebeff/images/VJaPuenp7uOlLIcC9icQ-EstsFBuOjTcOBP0euWsYHY.png",
+      "date": "Oct 16, 2013",
+      "snippet": "Mema Thai was by far the best meal for the money. We did takeout and it was extremely good food at a very reasonable price. If your wallet is ...",
+      "snippet_highlighted_words": [
+        "Mema Thai"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Mema Thai was by far the best meal for the money. We did takeout and it was extremely good food at a very reasonable price. If your wallet is ...",
+          "source_info_link": "https://www.tripadvisor.com/ShowTopic-g29218-i304-k6923021-What_s_your_favorite_restaurant_on_Kauai-Kauai_Hawaii.html",
+          "icon": "https://serpapi.com/searches/6a0deeec41ffc8d44dfebeff/images/VJaPuenp7uOlLIcC9icQ-EPwgYlExg1d-IPguPKGt6qYFDAhQeYveA3to-bfpRU8.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.tripadvisor.com/ShowTopic-g29218-i304-k6923021-What_s_your_favorite_restaurant_on_Kauai-Kauai_Hawaii.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.tripadvisor.com%2FShowTopic-g29218-i304-k6923021-What_s_your_favorite_restaurant_on_Kauai-Kauai_Hawaii.html",
+      "source": "Tripadvisor"
+    },
+    {
+      "position": 8,
+      "title": "Restaurants Near Kauai Beach Resort",
+      "link": "https://www.opentable.com/landmark/restaurants-near-kauai-beach-resort",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.opentable.com/landmark/restaurants-near-kauai-beach-resort&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQFnoECCoQAQ",
+      "displayed_link": "https://www.opentable.com \u203a Hawaii",
+      "favicon": "https://serpapi.com/searches/6a0deeec41ffc8d44dfebeff/images/VJaPuenp7uOlLIcC9icQ-MNid0TaLEN_2XS8WeoicRU.png",
+      "snippet": "1. Naupaka Terrace \u00b7 2. Duke's Kauai \u00b7 3. Hualani's \u00b7 4. The Plantation House by Gaylords \u00b7 5. Oasis on the Beach \u00b7 6. Naisla Kitchen & Cocktails \u00b7 7. Cafe Portofino.",
+      "snippet_highlighted_words": [
+        "Naupaka Terrace"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "1. Naupaka Terrace \u00b7 2. Duke's Kauai \u00b7 3. Hualani's \u00b7 4. The Plantation House by Gaylords \u00b7 5. Oasis on the Beach \u00b7 6. Naisla Kitchen & Cocktails \u00b7 7. Cafe Portofino.",
+          "source_info_link": "https://www.opentable.com/landmark/restaurants-near-kauai-beach-resort",
+          "icon": "https://serpapi.com/searches/6a0deeec41ffc8d44dfebeff/images/VJaPuenp7uOlLIcC9icQ-N9Ua8weMHQEiJEvKz98oAN3d05BQPTDHSI4i9y0aoXE.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.opentable.com/landmark/restaurants-near-kauai-beach-resort&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.opentable.com%2Flandmark%2Frestaurants-near-kauai-beach-resort",
+      "source": "OpenTable"
+    },
+    {
+      "position": 9,
+      "title": "Best Kauai Restaurants: A Foodie Guide",
+      "link": "https://www.runninginaskirt.com/best-kauai-eats/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.runninginaskirt.com/best-kauai-eats/&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQFnoECDAQAQ",
+      "displayed_link": "https://www.runninginaskirt.com \u203a Travel \u203a Hawaii",
+      "favicon": "https://serpapi.com/searches/6a0deeec41ffc8d44dfebeff/images/VJaPuenp7uOlLIcC9icQ-AZjyEdS07F4oq6VAZVVm1M.png",
+      "date": "Feb 26, 2026",
+      "snippet": "1 Kitchen Hanalei Bay is one of the best restaurants in Kauai. Located in the completely remodeled Hanalei Bay hotel, this open-air dining spot ...",
+      "snippet_highlighted_words": [
+        "1 Kitchen Hanalei Bay"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "1 Kitchen Hanalei Bay",
+            "link": "https://www.runninginaskirt.com/best-kauai-eats/#:~:text=1%20Kitchen%20Hanalei%20Bay,-1%20Kitchen%20Hanalei%20Bay"
+          },
+          {
+            "title": "The Beach House",
+            "link": "https://www.runninginaskirt.com/best-kauai-eats/#:~:text=The%20Beach%20House,-The%20Beach%20House"
+          },
+          {
+            "title": "The Dolphin",
+            "link": "https://www.runninginaskirt.com/best-kauai-eats/#:~:text=The%20Dolphin,-The%20top%20restaurant%20on%20my"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "1 Kitchen Hanalei Bay is one of the best restaurants in Kauai. Located in the completely remodeled Hanalei Bay hotel, this open-air dining spot ...",
+          "source_info_link": "https://www.runninginaskirt.com/best-kauai-eats/",
+          "icon": "https://serpapi.com/searches/6a0deeec41ffc8d44dfebeff/images/VJaPuenp7uOlLIcC9icQ-DKLMAVNjn2viKS6g8HvcoNe4ISQ4NBJrwyxM5JjUvjA.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.runninginaskirt.com/best-kauai-eats/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.runninginaskirt.com%2Fbest-kauai-eats%2F",
+      "source": "Running in a Skirt"
+    }
+  ],
+  "filters": [
+    {
+      "name": "Top rated",
+      "parameters": {
+        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-7PcL0rH3rRAFRy21aEPM-YFATG-b0d8QRJ2oxzmgEmHE1sE0Lrt8HFtInWzzQeyG2FzAWQtxlXTOT1U7aiU8lF_GPhQJyA1Y53_w5-s9q_vaSC3E",
+        "q": "Kauai hotel dining"
+      },
+      "link": "https://www.google.com/search?sca_esv=b05b86de3d8e65b9&hl=en&gl=us&q=Kauai+hotel+dining&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-7PcL0rH3rRAFRy21aEPM-YFATG-b0d8QRJ2oxzmgEmHE1sE0Lrt8HFtInWzzQeyG2FzAWQtxlXTOT1U7aiU8lF_GPhQJyA1Y53_w5-s9q_vaSC3E&sa=X&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQkc0JKAB6BAgdEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kauai+hotel+dining&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-7PcL0rH3rRAFRy21aEPM-YFATG-b0d8QRJ2oxzmgEmHE1sE0Lrt8HFtInWzzQeyG2FzAWQtxlXTOT1U7aiU8lF_GPhQJyA1Y53_w5-s9q_vaSC3E"
+    },
+    {
+      "name": "Open now",
+      "parameters": {
+        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-YbAJTFiy94v5--J3o-7HdzYHiTORxeNz4PTZSLEQviZpDmcnoEj_qnfqMNhPtaVv-6igodcBFvfTe02ps2fQjAb7XuwkpgXdedANyIGU8i2TfE7QG3X5msz8sFE5gfjafajsV87mqDyYFnUTkfBtL9pejTfoDG7873M_7VUn4BCk3FSPHayY1AavWOtJ2-B03wAKdajVjGZy3quMcvUL4kWEjO6srbEjafwv0HAkf3dJyBSq",
+        "q": "best kauai hotel dining open now"
+      },
+      "link": "https://www.google.com/search?sca_esv=b05b86de3d8e65b9&hl=en&gl=us&q=best+kauai+hotel+dining+open+now&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-YbAJTFiy94v5--J3o-7HdzYHiTORxeNz4PTZSLEQviZpDmcnoEj_qnfqMNhPtaVv-6igodcBFvfTe02ps2fQjAb7XuwkpgXdedANyIGU8i2TfE7QG3X5msz8sFE5gfjafajsV87mqDyYFnUTkfBtL9pejTfoDG7873M_7VUn4BCk3FSPHayY1AavWOtJ2-B03wAKdajVjGZy3quMcvUL4kWEjO6srbEjafwv0HAkf3dJyBSq&sa=X&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQxKsJKAB6BAggEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=best+kauai+hotel+dining+open+now&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-YbAJTFiy94v5--J3o-7HdzYHiTORxeNz4PTZSLEQviZpDmcnoEj_qnfqMNhPtaVv-6igodcBFvfTe02ps2fQjAb7XuwkpgXdedANyIGU8i2TfE7QG3X5msz8sFE5gfjafajsV87mqDyYFnUTkfBtL9pejTfoDG7873M_7VUn4BCk3FSPHayY1AavWOtJ2-B03wAKdajVjGZy3quMcvUL4kWEjO6srbEjafwv0HAkf3dJyBSq"
+    },
+    {
+      "name": "Cheap",
+      "parameters": {
+        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-YbAJTFiy94v5--J3o-7HdzYHiTORxeNz4PTZSLEQviZpDmcnoEj_qnfqMNhPtaVv-6igodcBFvfTe02ps2fQjAb7XuwkpgXdedANyIGU8i2FxjhM4Vce6nPrexMBt1VBH8jLFyaCKX2Y_bWtCj_ACA8AJjDKERixJbPPS5IX-AQbiCqJcP2Tsbt5JInUVfshheqyZ6q5stTDCEcTvxaEkGcxziJ-dtSv0pubzRh_YouMPybf",
+        "q": "cheap best kauai hotel dining"
+      },
+      "link": "https://www.google.com/search?sca_esv=b05b86de3d8e65b9&hl=en&gl=us&q=cheap+best+kauai+hotel+dining&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-YbAJTFiy94v5--J3o-7HdzYHiTORxeNz4PTZSLEQviZpDmcnoEj_qnfqMNhPtaVv-6igodcBFvfTe02ps2fQjAb7XuwkpgXdedANyIGU8i2FxjhM4Vce6nPrexMBt1VBH8jLFyaCKX2Y_bWtCj_ACA8AJjDKERixJbPPS5IX-AQbiCqJcP2Tsbt5JInUVfshheqyZ6q5stTDCEcTvxaEkGcxziJ-dtSv0pubzRh_YouMPybf&sa=X&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQxKsJKAF6BAgjEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=cheap+best+kauai+hotel+dining&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-YbAJTFiy94v5--J3o-7HdzYHiTORxeNz4PTZSLEQviZpDmcnoEj_qnfqMNhPtaVv-6igodcBFvfTe02ps2fQjAb7XuwkpgXdedANyIGU8i2FxjhM4Vce6nPrexMBt1VBH8jLFyaCKX2Y_bWtCj_ACA8AJjDKERixJbPPS5IX-AQbiCqJcP2Tsbt5JInUVfshheqyZ6q5stTDCEcTvxaEkGcxziJ-dtSv0pubzRh_YouMPybf"
+    },
+    {
+      "name": "Upscale",
+      "parameters": {
+        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-YbAJTFiy94v5--J3o-7HdzYHiTORxeNz4PTZSLEQviZpDmcnoEj_qnfqMNhPtaVv-6igodcBFvfTe02ps2fQjAb7XuwkpgXdedANyIGU8i3A02SK2YoSI-g3kEVRr5fGGZt8jW2yHdxL_WssdbFOd7mSrBldhFB7USivumrAGOSL5ECpPLUBLbaB5Cs2Wanr2lABWJD_ssyBfF6Ze7JHeMGucR4GieR9YwZtXK7c6wCL1Gnm",
+        "q": "upscale best kauai hotel dining"
+      },
+      "link": "https://www.google.com/search?sca_esv=b05b86de3d8e65b9&hl=en&gl=us&q=upscale+best+kauai+hotel+dining&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-YbAJTFiy94v5--J3o-7HdzYHiTORxeNz4PTZSLEQviZpDmcnoEj_qnfqMNhPtaVv-6igodcBFvfTe02ps2fQjAb7XuwkpgXdedANyIGU8i3A02SK2YoSI-g3kEVRr5fGGZt8jW2yHdxL_WssdbFOd7mSrBldhFB7USivumrAGOSL5ECpPLUBLbaB5Cs2Wanr2lABWJD_ssyBfF6Ze7JHeMGucR4GieR9YwZtXK7c6wCL1Gnm&sa=X&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQxKsJKAJ6BAghEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=upscale+best+kauai+hotel+dining&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-YbAJTFiy94v5--J3o-7HdzYHiTORxeNz4PTZSLEQviZpDmcnoEj_qnfqMNhPtaVv-6igodcBFvfTe02ps2fQjAb7XuwkpgXdedANyIGU8i3A02SK2YoSI-g3kEVRr5fGGZt8jW2yHdxL_WssdbFOd7mSrBldhFB7USivumrAGOSL5ECpPLUBLbaB5Cs2Wanr2lABWJD_ssyBfF6Ze7JHeMGucR4GieR9YwZtXK7c6wCL1Gnm"
+    },
+    {
+      "name": "Beer",
+      "parameters": {
+        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-YbAJTFiy94v5--J3o-7HdzYHiTORxeNz4PTZSLEQviZpDmcnoEj_qnfqMNhPtaVv-6igodcBFvfTe02ps2fQjAb7XuwkpgXdedANyIGU8i3cpfUnmM4XVYX3ntw8_E8U13VtP05O7FBIDXbH6ud-dDpR8jAB6rZ4R8SnISQW7XawwrGKQRlydZTZgeDNhs0gpTEuQBKqnbFPG4d5MqsoG2Ddk0aR0CH_HjFjXYv7wLJziOmEIFc58ZlsK6wj1_qt_RJBHbUqomDJxb0JFJqitpslhznv0syJSHBjh8_yIpcozL6P",
+        "q": "beer best kauai hotel dining"
+      },
+      "link": "https://www.google.com/search?sca_esv=b05b86de3d8e65b9&hl=en&gl=us&q=beer+best+kauai+hotel+dining&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-YbAJTFiy94v5--J3o-7HdzYHiTORxeNz4PTZSLEQviZpDmcnoEj_qnfqMNhPtaVv-6igodcBFvfTe02ps2fQjAb7XuwkpgXdedANyIGU8i3cpfUnmM4XVYX3ntw8_E8U13VtP05O7FBIDXbH6ud-dDpR8jAB6rZ4R8SnISQW7XawwrGKQRlydZTZgeDNhs0gpTEuQBKqnbFPG4d5MqsoG2Ddk0aR0CH_HjFjXYv7wLJziOmEIFc58ZlsK6wj1_qt_RJBHbUqomDJxb0JFJqitpslhznv0syJSHBjh8_yIpcozL6P&sa=X&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQxKsJKAN6BAgiEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=beer+best+kauai+hotel+dining&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-YbAJTFiy94v5--J3o-7HdzYHiTORxeNz4PTZSLEQviZpDmcnoEj_qnfqMNhPtaVv-6igodcBFvfTe02ps2fQjAb7XuwkpgXdedANyIGU8i3cpfUnmM4XVYX3ntw8_E8U13VtP05O7FBIDXbH6ud-dDpR8jAB6rZ4R8SnISQW7XawwrGKQRlydZTZgeDNhs0gpTEuQBKqnbFPG4d5MqsoG2Ddk0aR0CH_HjFjXYv7wLJziOmEIFc58ZlsK6wj1_qt_RJBHbUqomDJxb0JFJqitpslhznv0syJSHBjh8_yIpcozL6P"
+    },
+    {
+      "name": "Dine-in",
+      "parameters": {
+        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-YbAJTFiy94v5--J3o-7HdzYHiTORxeNz4PTZSLEQviZpDmcnoEj_qnfqMNhPtaVv-6igodcBFvfTe02ps2fQjAb7XuwkpgXdedANyIGU8i1Ajj3Zzlx4ZkEGOZWxfdpINLhr-nJqCBAksQtogPbEqvt69oocdBDgXHDnopA6xkb7rQ173T453oa9UP_BZRWEqEsRygiySpbnk36FyOLt27P2Nh_az5OdQZuSA0k5nwXFzAtueeTlz-3GMUyopHpcS8dkmR5tt0b_j2OWNjA_gO2-m5KRG4KmWBLb6OkAKsBzFhhEupv2btN5zmoj7K-qyeKj9g",
+        "q": "dine-in best kauai hotel dining"
+      },
+      "link": "https://www.google.com/search?sca_esv=b05b86de3d8e65b9&hl=en&gl=us&q=dine-in+best+kauai+hotel+dining&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-YbAJTFiy94v5--J3o-7HdzYHiTORxeNz4PTZSLEQviZpDmcnoEj_qnfqMNhPtaVv-6igodcBFvfTe02ps2fQjAb7XuwkpgXdedANyIGU8i1Ajj3Zzlx4ZkEGOZWxfdpINLhr-nJqCBAksQtogPbEqvt69oocdBDgXHDnopA6xkb7rQ173T453oa9UP_BZRWEqEsRygiySpbnk36FyOLt27P2Nh_az5OdQZuSA0k5nwXFzAtueeTlz-3GMUyopHpcS8dkmR5tt0b_j2OWNjA_gO2-m5KRG4KmWBLb6OkAKsBzFhhEupv2btN5zmoj7K-qyeKj9g&sa=X&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQxKsJKAR6BAgeEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=dine-in+best+kauai+hotel+dining&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-YbAJTFiy94v5--J3o-7HdzYHiTORxeNz4PTZSLEQviZpDmcnoEj_qnfqMNhPtaVv-6igodcBFvfTe02ps2fQjAb7XuwkpgXdedANyIGU8i1Ajj3Zzlx4ZkEGOZWxfdpINLhr-nJqCBAksQtogPbEqvt69oocdBDgXHDnopA6xkb7rQ173T453oa9UP_BZRWEqEsRygiySpbnk36FyOLt27P2Nh_az5OdQZuSA0k5nwXFzAtueeTlz-3GMUyopHpcS8dkmR5tt0b_j2OWNjA_gO2-m5KRG4KmWBLb6OkAKsBzFhhEupv2btN5zmoj7K-qyeKj9g"
+    },
+    {
+      "name": "Wine",
+      "parameters": {
+        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-YbAJTFiy94v5--J3o-7HdzYHiTORxeNz4PTZSLEQviZpDmcnoEj_qnfqMNhPtaVv-6igodcBFvfTe02ps2fQjAb7XuwkpgXdedANyIGU8i3cpfUnmM4XVYX3ntw8_E8UFnfBiFGJu1dP0RqM_vFzYjz6PLqck0hKawij95Y89_m23bpYuGw1_uwJpJXsp37AUTP7JaQ1XmrCfh8oxFGhiBI9tZH458yqwfVkHTEHwqSK2OvkcbpsbUI4YvsTwq4hLC79n2vhsuXmxxHcR0sMqN89fcPgVk31AZ90xEc4ZeP9UCi_",
+        "q": "wine best kauai hotel dining"
+      },
+      "link": "https://www.google.com/search?sca_esv=b05b86de3d8e65b9&hl=en&gl=us&q=wine+best+kauai+hotel+dining&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-YbAJTFiy94v5--J3o-7HdzYHiTORxeNz4PTZSLEQviZpDmcnoEj_qnfqMNhPtaVv-6igodcBFvfTe02ps2fQjAb7XuwkpgXdedANyIGU8i3cpfUnmM4XVYX3ntw8_E8UFnfBiFGJu1dP0RqM_vFzYjz6PLqck0hKawij95Y89_m23bpYuGw1_uwJpJXsp37AUTP7JaQ1XmrCfh8oxFGhiBI9tZH458yqwfVkHTEHwqSK2OvkcbpsbUI4YvsTwq4hLC79n2vhsuXmxxHcR0sMqN89fcPgVk31AZ90xEc4ZeP9UCi_&sa=X&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQxKsJKAV6BAh3EAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=wine+best+kauai+hotel+dining&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-YbAJTFiy94v5--J3o-7HdzYHiTORxeNz4PTZSLEQviZpDmcnoEj_qnfqMNhPtaVv-6igodcBFvfTe02ps2fQjAb7XuwkpgXdedANyIGU8i3cpfUnmM4XVYX3ntw8_E8UFnfBiFGJu1dP0RqM_vFzYjz6PLqck0hKawij95Y89_m23bpYuGw1_uwJpJXsp37AUTP7JaQ1XmrCfh8oxFGhiBI9tZH458yqwfVkHTEHwqSK2OvkcbpsbUI4YvsTwq4hLC79n2vhsuXmxxHcR0sMqN89fcPgVk31AZ90xEc4ZeP9UCi_"
+    },
+    {
+      "name": "Accepts reservations",
+      "parameters": {
+        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-YbAJTFiy94v5--J3o-7HdzYHiTORxeNz4PTZSLEQviZpDmcnoEj_qnfqMNhPtaVv-6igodcBFvfTe02ps2fQjAb7XuwkpgXdedANyIGU8i2H1KNWenSqO6cXlZ5jSkUGvspFRRwMNXgcSjt8rI4Q4yLrsZv7KkbJhMO25YXvkn_qMPit-XDWIwpDF-68Rfe8ZJwiqCaLGGWileUjxm61NpIGL09oMXvCP_TQMI6e3XuTX0ZEaMZQPg8Uo00EEVmCxHx5e6ikKpsVGT1FVro2wlsCTMab7H5mI_qEjLgEHWZHvNFglNUU0Zaa4V2nzyjq1mb02w",
+        "q": "accepts reservations best kauai hotel dining"
+      },
+      "link": "https://www.google.com/search?sca_esv=b05b86de3d8e65b9&hl=en&gl=us&q=accepts+reservations+best+kauai+hotel+dining&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-YbAJTFiy94v5--J3o-7HdzYHiTORxeNz4PTZSLEQviZpDmcnoEj_qnfqMNhPtaVv-6igodcBFvfTe02ps2fQjAb7XuwkpgXdedANyIGU8i2H1KNWenSqO6cXlZ5jSkUGvspFRRwMNXgcSjt8rI4Q4yLrsZv7KkbJhMO25YXvkn_qMPit-XDWIwpDF-68Rfe8ZJwiqCaLGGWileUjxm61NpIGL09oMXvCP_TQMI6e3XuTX0ZEaMZQPg8Uo00EEVmCxHx5e6ikKpsVGT1FVro2wlsCTMab7H5mI_qEjLgEHWZHvNFglNUU0Zaa4V2nzyjq1mb02w&sa=X&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQxKsJKAZ6BAh6EAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=accepts+reservations+best+kauai+hotel+dining&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-YbAJTFiy94v5--J3o-7HdzYHiTORxeNz4PTZSLEQviZpDmcnoEj_qnfqMNhPtaVv-6igodcBFvfTe02ps2fQjAb7XuwkpgXdedANyIGU8i2H1KNWenSqO6cXlZ5jSkUGvspFRRwMNXgcSjt8rI4Q4yLrsZv7KkbJhMO25YXvkn_qMPit-XDWIwpDF-68Rfe8ZJwiqCaLGGWileUjxm61NpIGL09oMXvCP_TQMI6e3XuTX0ZEaMZQPg8Uo00EEVmCxHx5e6ikKpsVGT1FVro2wlsCTMab7H5mI_qEjLgEHWZHvNFglNUU0Zaa4V2nzyjq1mb02w"
+    },
+    {
+      "name": "Takeout",
+      "parameters": {
+        "uds": "ALYpb_ncDc7jTlmw6Mmq7NjuX5c-YbAJTFiy94v5--J3o-7HdzYHiTORxeNz4PTZSLEQviZpDmcnoEj_qnfqMNhPtaVv-6igodcBFvfTe02ps2fQjAb7XuwkpgXdedANyIGU8i3kpID6tyCwLSVusEVKHpTGhiR-wyk0xSUypAuRoXG44YI06sztBdBD6WTqdE_w_V2r7RNOI6rVNO27HUqM-80SQD6La3wB5PNTpxDbyikrs7GJwq7PaciLvCKjevO3mySz5dzjYRl40Fwmg8DaHo0KcEg-CUMGdkJ_G4EJnqITW_21vO3xZh2D34MkzipWLnFn4I-3",
+        "q": "takeout best kauai hotel dining"
+      },
+      "link": "https://www.google.com/search?sca_esv=b05b86de3d8e65b9&hl=en&gl=us&q=takeout+best+kauai+hotel+dining&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-YbAJTFiy94v5--J3o-7HdzYHiTORxeNz4PTZSLEQviZpDmcnoEj_qnfqMNhPtaVv-6igodcBFvfTe02ps2fQjAb7XuwkpgXdedANyIGU8i3kpID6tyCwLSVusEVKHpTGhiR-wyk0xSUypAuRoXG44YI06sztBdBD6WTqdE_w_V2r7RNOI6rVNO27HUqM-80SQD6La3wB5PNTpxDbyikrs7GJwq7PaciLvCKjevO3mySz5dzjYRl40Fwmg8DaHo0KcEg-CUMGdkJ_G4EJnqITW_21vO3xZh2D34MkzipWLnFn4I-3&sa=X&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQxKsJKAd6BAh4EAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=takeout+best+kauai+hotel+dining&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-YbAJTFiy94v5--J3o-7HdzYHiTORxeNz4PTZSLEQviZpDmcnoEj_qnfqMNhPtaVv-6igodcBFvfTe02ps2fQjAb7XuwkpgXdedANyIGU8i3kpID6tyCwLSVusEVKHpTGhiR-wyk0xSUypAuRoXG44YI06sztBdBD6WTqdE_w_V2r7RNOI6rVNO27HUqM-80SQD6La3wB5PNTpxDbyikrs7GJwq7PaciLvCKjevO3mySz5dzjYRl40Fwmg8DaHo0KcEg-CUMGdkJ_G4EJnqITW_21vO3xZh2D34MkzipWLnFn4I-3"
+    },
+    {
+      "name": "Vibe",
+      "options": [
+        {
+          "name": "Any vibe"
+        },
+        {
+          "name": "Casual",
+          "parameters": {
+            "uds": "ALYpb_lJ_KC1e2NBZhifRDPpIqfkRSAfvL-eRQXhZzwZ3v-lvD5pzOU7bBn3AKJQlN-8HmxgHlyVGvXsowmT_mSrgeBbO_4eLYO9tcodtehCljOCiQmrm-Hfm81M6FBmbL3Mvy0wuWePXExpi5gI14ov3kYz-0x-9vHeL_WTBEppPfeodxWCw8u05esDtu5v7zH2jPYstMDJxBqY1hRe9BvXB3F87_plyC2_DqDjLPJq4qisX_CSzGfrK_rZ__kQ9gMcwLeu1KRGgPsjWi5OL80uC0iRIFqbNYWi1GixZ5HgBwICWRRKqByywhXxLtF0TcheC20gNM7qu4iM_TuxSR138OfsXA_3HEiAgobmtpT-Ut0OE9pgLbrJ5NBo5YmYf6Qq8U-E9l1v-2qNmy-XqUeln5fAy7Aa50KAkNfDjrPdn0pNizh0pjLAaKhaV52PPfKPFXe4ZwCKu0SrI41f66qz5YEezYqSkql6vZ0kJI32-gkjIcdgvNg1rNInVnldIVNDqDfh7qthQV5aKgJT7AtwutyFlw1y_O6M90NTCHz32NF2QV1b8L0",
+            "q": "casual best kauai hotel dining"
+          },
+          "link": "https://www.google.com/search?sca_esv=b05b86de3d8e65b9&hl=en&gl=us&q=casual+best+kauai+hotel+dining&uds=ALYpb_lJ_KC1e2NBZhifRDPpIqfkRSAfvL-eRQXhZzwZ3v-lvD5pzOU7bBn3AKJQlN-8HmxgHlyVGvXsowmT_mSrgeBbO_4eLYO9tcodtehCljOCiQmrm-Hfm81M6FBmbL3Mvy0wuWePXExpi5gI14ov3kYz-0x-9vHeL_WTBEppPfeodxWCw8u05esDtu5v7zH2jPYstMDJxBqY1hRe9BvXB3F87_plyC2_DqDjLPJq4qisX_CSzGfrK_rZ__kQ9gMcwLeu1KRGgPsjWi5OL80uC0iRIFqbNYWi1GixZ5HgBwICWRRKqByywhXxLtF0TcheC20gNM7qu4iM_TuxSR138OfsXA_3HEiAgobmtpT-Ut0OE9pgLbrJ5NBo5YmYf6Qq8U-E9l1v-2qNmy-XqUeln5fAy7Aa50KAkNfDjrPdn0pNizh0pjLAaKhaV52PPfKPFXe4ZwCKu0SrI41f66qz5YEezYqSkql6vZ0kJI32-gkjIcdgvNg1rNInVnldIVNDqDfh7qthQV5aKgJT7AtwutyFlw1y_O6M90NTCHz32NF2QV1b8L0&sa=X&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQkbEKegQIfBAD",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=casual+best+kauai+hotel+dining&uds=ALYpb_lJ_KC1e2NBZhifRDPpIqfkRSAfvL-eRQXhZzwZ3v-lvD5pzOU7bBn3AKJQlN-8HmxgHlyVGvXsowmT_mSrgeBbO_4eLYO9tcodtehCljOCiQmrm-Hfm81M6FBmbL3Mvy0wuWePXExpi5gI14ov3kYz-0x-9vHeL_WTBEppPfeodxWCw8u05esDtu5v7zH2jPYstMDJxBqY1hRe9BvXB3F87_plyC2_DqDjLPJq4qisX_CSzGfrK_rZ__kQ9gMcwLeu1KRGgPsjWi5OL80uC0iRIFqbNYWi1GixZ5HgBwICWRRKqByywhXxLtF0TcheC20gNM7qu4iM_TuxSR138OfsXA_3HEiAgobmtpT-Ut0OE9pgLbrJ5NBo5YmYf6Qq8U-E9l1v-2qNmy-XqUeln5fAy7Aa50KAkNfDjrPdn0pNizh0pjLAaKhaV52PPfKPFXe4ZwCKu0SrI41f66qz5YEezYqSkql6vZ0kJI32-gkjIcdgvNg1rNInVnldIVNDqDfh7qthQV5aKgJT7AtwutyFlw1y_O6M90NTCHz32NF2QV1b8L0"
+        },
+        {
+          "name": "Cozy",
+          "parameters": {
+            "uds": "ALYpb_m_Gy5vgLgq4ekMU9_d0EE-5AGUfrAKwtDrsUJvuGBWvAENJg6w_pYMiyL8BXi5tN7hIp-6lrDbMTHE8wIj6QYjioSvRnm0wmSkQW7uqKCU-CS2gWlVwUyDFpkEaJexnr8Y1jA-t5esOjntW4mpsOXM5fjO_W-Zr-V86nrMcBvgxVjE_1d9gHbRWdwSzLnye0dgFsixij4gx6LJ7d8-_qMFvB09YhXuet9l-UBsV_uSt6pi28WWWlgAz0W55q2mEDglKHp3XtNFA24GHgwa3elDAbrFnOBHGFcuLBMu499H0m7HE40nsGbck-H91iEec2BDV6Tmud9QD4NkK3qDeWr300Y9QNFcOuTCSqC1JwvEBr0FuwyWyFswsSEpPKTBEXZwNX7F9FxxCWTQyulpW4314UAqMe3GliMxvEgPURJPE2qhjzTMiPoiSxAP1OTOMI1rIjp8EBKCedX97adv-n3hE28aD5CdH8KAak-BCuR5_4cIKnlWsHSjs48jhTL3Vd086WdpcGXZaNk6gUvXiDrrcP9uR-8LxWS0dB8MFLgC7R9UP84",
+            "q": "cozy best kauai hotel dining"
+          },
+          "link": "https://www.google.com/search?sca_esv=b05b86de3d8e65b9&hl=en&gl=us&q=cozy+best+kauai+hotel+dining&uds=ALYpb_m_Gy5vgLgq4ekMU9_d0EE-5AGUfrAKwtDrsUJvuGBWvAENJg6w_pYMiyL8BXi5tN7hIp-6lrDbMTHE8wIj6QYjioSvRnm0wmSkQW7uqKCU-CS2gWlVwUyDFpkEaJexnr8Y1jA-t5esOjntW4mpsOXM5fjO_W-Zr-V86nrMcBvgxVjE_1d9gHbRWdwSzLnye0dgFsixij4gx6LJ7d8-_qMFvB09YhXuet9l-UBsV_uSt6pi28WWWlgAz0W55q2mEDglKHp3XtNFA24GHgwa3elDAbrFnOBHGFcuLBMu499H0m7HE40nsGbck-H91iEec2BDV6Tmud9QD4NkK3qDeWr300Y9QNFcOuTCSqC1JwvEBr0FuwyWyFswsSEpPKTBEXZwNX7F9FxxCWTQyulpW4314UAqMe3GliMxvEgPURJPE2qhjzTMiPoiSxAP1OTOMI1rIjp8EBKCedX97adv-n3hE28aD5CdH8KAak-BCuR5_4cIKnlWsHSjs48jhTL3Vd086WdpcGXZaNk6gUvXiDrrcP9uR-8LxWS0dB8MFLgC7R9UP84&sa=X&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQkbEKegQIfBAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=cozy+best+kauai+hotel+dining&uds=ALYpb_m_Gy5vgLgq4ekMU9_d0EE-5AGUfrAKwtDrsUJvuGBWvAENJg6w_pYMiyL8BXi5tN7hIp-6lrDbMTHE8wIj6QYjioSvRnm0wmSkQW7uqKCU-CS2gWlVwUyDFpkEaJexnr8Y1jA-t5esOjntW4mpsOXM5fjO_W-Zr-V86nrMcBvgxVjE_1d9gHbRWdwSzLnye0dgFsixij4gx6LJ7d8-_qMFvB09YhXuet9l-UBsV_uSt6pi28WWWlgAz0W55q2mEDglKHp3XtNFA24GHgwa3elDAbrFnOBHGFcuLBMu499H0m7HE40nsGbck-H91iEec2BDV6Tmud9QD4NkK3qDeWr300Y9QNFcOuTCSqC1JwvEBr0FuwyWyFswsSEpPKTBEXZwNX7F9FxxCWTQyulpW4314UAqMe3GliMxvEgPURJPE2qhjzTMiPoiSxAP1OTOMI1rIjp8EBKCedX97adv-n3hE28aD5CdH8KAak-BCuR5_4cIKnlWsHSjs48jhTL3Vd086WdpcGXZaNk6gUvXiDrrcP9uR-8LxWS0dB8MFLgC7R9UP84"
+        },
+        {
+          "name": "Trendy",
+          "parameters": {
+            "uds": "ALYpb_m_Gy5vgLgq4ekMU9_d0EE-axNRLV1TG6we9L57l-zW3S-Ovdu_uwhfg4ROurmrLh_tXY4kEpOaNKTe4x2zuT8jDVjR_YzXeI1MSjQgZxnCGztWS6JOy29JjkJKKUt7m1Co3uZVfybZnOmGaMvpqHlJU4POH3U98vyOu6pYc0R9bVmN0VxyUqLHavowgB_wkDrzNEUf_1q5x8OCgjuilVA3PooGa7ZxIK3FhY7DGbdUDsQWSPhpimpKZ8TZ4cXU6DyvQpXRYy1Qg3rNaIP2DwTlCrJCRbuvp9Y1bYOv2GNcJOPYrQizruHXvt1HOuYXepAe1EjLQGAIfBZh69wUcHnWDcrfLXr64qS3s1TV1fvcKhJ-cLPV2g8lqdE8yJYlUOrCTYyVMbhJH8JCcadkmoaxDYxn1UkB9P-n4a_VtthxbjGYi-tGIKPUgpqU1sJQmGIoLkXg2Dzy83J1dPMvfdGGd-y5_7tLBAXc5Wu6Ck-27WmQuW1INp_8Xb_CQ_3-JGx55RUnhrY8rbEGJ8PZfL2CBHi_U5JgZg1Ga2MqY0qWChrfUfY",
+            "q": "trendy best kauai hotel dining"
+          },
+          "link": "https://www.google.com/search?sca_esv=b05b86de3d8e65b9&hl=en&gl=us&q=trendy+best+kauai+hotel+dining&uds=ALYpb_m_Gy5vgLgq4ekMU9_d0EE-axNRLV1TG6we9L57l-zW3S-Ovdu_uwhfg4ROurmrLh_tXY4kEpOaNKTe4x2zuT8jDVjR_YzXeI1MSjQgZxnCGztWS6JOy29JjkJKKUt7m1Co3uZVfybZnOmGaMvpqHlJU4POH3U98vyOu6pYc0R9bVmN0VxyUqLHavowgB_wkDrzNEUf_1q5x8OCgjuilVA3PooGa7ZxIK3FhY7DGbdUDsQWSPhpimpKZ8TZ4cXU6DyvQpXRYy1Qg3rNaIP2DwTlCrJCRbuvp9Y1bYOv2GNcJOPYrQizruHXvt1HOuYXepAe1EjLQGAIfBZh69wUcHnWDcrfLXr64qS3s1TV1fvcKhJ-cLPV2g8lqdE8yJYlUOrCTYyVMbhJH8JCcadkmoaxDYxn1UkB9P-n4a_VtthxbjGYi-tGIKPUgpqU1sJQmGIoLkXg2Dzy83J1dPMvfdGGd-y5_7tLBAXc5Wu6Ck-27WmQuW1INp_8Xb_CQ_3-JGx55RUnhrY8rbEGJ8PZfL2CBHi_U5JgZg1Ga2MqY0qWChrfUfY&sa=X&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQkbEKegQIfBAF",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=trendy+best+kauai+hotel+dining&uds=ALYpb_m_Gy5vgLgq4ekMU9_d0EE-axNRLV1TG6we9L57l-zW3S-Ovdu_uwhfg4ROurmrLh_tXY4kEpOaNKTe4x2zuT8jDVjR_YzXeI1MSjQgZxnCGztWS6JOy29JjkJKKUt7m1Co3uZVfybZnOmGaMvpqHlJU4POH3U98vyOu6pYc0R9bVmN0VxyUqLHavowgB_wkDrzNEUf_1q5x8OCgjuilVA3PooGa7ZxIK3FhY7DGbdUDsQWSPhpimpKZ8TZ4cXU6DyvQpXRYy1Qg3rNaIP2DwTlCrJCRbuvp9Y1bYOv2GNcJOPYrQizruHXvt1HOuYXepAe1EjLQGAIfBZh69wUcHnWDcrfLXr64qS3s1TV1fvcKhJ-cLPV2g8lqdE8yJYlUOrCTYyVMbhJH8JCcadkmoaxDYxn1UkB9P-n4a_VtthxbjGYi-tGIKPUgpqU1sJQmGIoLkXg2Dzy83J1dPMvfdGGd-y5_7tLBAXc5Wu6Ck-27WmQuW1INp_8Xb_CQ_3-JGx55RUnhrY8rbEGJ8PZfL2CBHi_U5JgZg1Ga2MqY0qWChrfUfY"
+        },
+        {
+          "name": "Romantic",
+          "parameters": {
+            "uds": "ALYpb_nwGBjdHytNYfzh4xnof_4iPG4OlJbmQeQwBC8230Vj0olsAvHlzwe5pKzgasuc3LzKRux7QwQhm_BUdepacX0BZfERD2tWvduuBlIGK62e_EXNooUqoXSg2e8v8UmyTEyTTI0QFEI0OnbEplSxgYlBBG016OzZocQ7axVdxmA53q6iMnxJKC8fws61jTQFuz-bobAgG4foc7YG-pXWW1STmd4aruh-tqQXmt4kCiLSQxgeokvW4XA9xNrszLanIT9eI2w8p0fijZnYLZTNxD07OSUM98RBwO_Jy3E2qcWi1xKjbvyUEwKxAFCjIsVUtMG0dI-O7f9SzCskKusYFOdmEfavx7EZEZRoCscJBWSS-TK2m8VEU63hG1c9_BxED_yV8mG8xN8owheSfr3bleEWy1NzWBeyu4QvzJ4iMglTs02J3aPJYciwb09PLx2gfyoKXTsX6FeGsH8qqlu5FYtAhB-sCzPxY2S0hkdHILDldPQL_NErcBSQyx_3MrDhAG5IXYqWAajaz_F6Tf8gJODUWGejKARm2txb1kHjG2JyYo_a9vY",
+            "q": "romantic best kauai hotel dining"
+          },
+          "link": "https://www.google.com/search?sca_esv=b05b86de3d8e65b9&hl=en&gl=us&q=romantic+best+kauai+hotel+dining&uds=ALYpb_nwGBjdHytNYfzh4xnof_4iPG4OlJbmQeQwBC8230Vj0olsAvHlzwe5pKzgasuc3LzKRux7QwQhm_BUdepacX0BZfERD2tWvduuBlIGK62e_EXNooUqoXSg2e8v8UmyTEyTTI0QFEI0OnbEplSxgYlBBG016OzZocQ7axVdxmA53q6iMnxJKC8fws61jTQFuz-bobAgG4foc7YG-pXWW1STmd4aruh-tqQXmt4kCiLSQxgeokvW4XA9xNrszLanIT9eI2w8p0fijZnYLZTNxD07OSUM98RBwO_Jy3E2qcWi1xKjbvyUEwKxAFCjIsVUtMG0dI-O7f9SzCskKusYFOdmEfavx7EZEZRoCscJBWSS-TK2m8VEU63hG1c9_BxED_yV8mG8xN8owheSfr3bleEWy1NzWBeyu4QvzJ4iMglTs02J3aPJYciwb09PLx2gfyoKXTsX6FeGsH8qqlu5FYtAhB-sCzPxY2S0hkdHILDldPQL_NErcBSQyx_3MrDhAG5IXYqWAajaz_F6Tf8gJODUWGejKARm2txb1kHjG2JyYo_a9vY&sa=X&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQkbEKegQIfBAG",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=romantic+best+kauai+hotel+dining&uds=ALYpb_nwGBjdHytNYfzh4xnof_4iPG4OlJbmQeQwBC8230Vj0olsAvHlzwe5pKzgasuc3LzKRux7QwQhm_BUdepacX0BZfERD2tWvduuBlIGK62e_EXNooUqoXSg2e8v8UmyTEyTTI0QFEI0OnbEplSxgYlBBG016OzZocQ7axVdxmA53q6iMnxJKC8fws61jTQFuz-bobAgG4foc7YG-pXWW1STmd4aruh-tqQXmt4kCiLSQxgeokvW4XA9xNrszLanIT9eI2w8p0fijZnYLZTNxD07OSUM98RBwO_Jy3E2qcWi1xKjbvyUEwKxAFCjIsVUtMG0dI-O7f9SzCskKusYFOdmEfavx7EZEZRoCscJBWSS-TK2m8VEU63hG1c9_BxED_yV8mG8xN8owheSfr3bleEWy1NzWBeyu4QvzJ4iMglTs02J3aPJYciwb09PLx2gfyoKXTsX6FeGsH8qqlu5FYtAhB-sCzPxY2S0hkdHILDldPQL_NErcBSQyx_3MrDhAG5IXYqWAajaz_F6Tf8gJODUWGejKARm2txb1kHjG2JyYo_a9vY"
+        }
+      ]
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Best kauai hotel dining reddit",
+      "link": "https://www.google.com/search?sca_esv=b05b86de3d8e65b9&hl=en&gl=us&q=Best+kauai+hotel+dining+reddit&sa=X&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQ1QJ6BAhQEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+kauai+hotel+dining+reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Best kauai hotel dining for couples",
+      "link": "https://www.google.com/search?sca_esv=b05b86de3d8e65b9&hl=en&gl=us&q=Best+kauai+hotel+dining+for+couples&sa=X&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQ1QJ6BAhUEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+kauai+hotel+dining+for+couples"
+    },
+    {
+      "block_position": 1,
+      "query": "Top 10 restaurants in Kauai",
+      "link": "https://www.google.com/search?sca_esv=b05b86de3d8e65b9&hl=en&gl=us&q=Top+10+restaurants+in+Kauai&sa=X&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQ1QJ6BAhTEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Top+10+restaurants+in+Kauai"
+    },
+    {
+      "block_position": 1,
+      "query": "Best kauai hotel dining buffet",
+      "link": "https://www.google.com/search?sca_esv=b05b86de3d8e65b9&hl=en&gl=us&q=Best+kauai+hotel+dining+buffet&sa=X&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQ1QJ6BAhSEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+kauai+hotel+dining+buffet"
+    },
+    {
+      "block_position": 1,
+      "query": "Hidden gem restaurants Kauai",
+      "link": "https://www.google.com/search?sca_esv=b05b86de3d8e65b9&hl=en&gl=us&q=Hidden+gem+restaurants+Kauai&sa=X&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQ1QJ6BAhWEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Hidden+gem+restaurants+Kauai"
+    },
+    {
+      "block_position": 1,
+      "query": "Best restaurants in Kauai with a view",
+      "link": "https://www.google.com/search?sca_esv=b05b86de3d8e65b9&hl=en&gl=us&q=Best+restaurants+in+Kauai+with+a+view&sa=X&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQ1QJ6BAhREAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+restaurants+in+Kauai+with+a+view"
+    },
+    {
+      "block_position": 1,
+      "query": "Best restaurants Kauai south Shore",
+      "link": "https://www.google.com/search?sca_esv=b05b86de3d8e65b9&hl=en&gl=us&q=Best+restaurants+Kauai+south+Shore&sa=X&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQ1QJ6BAhXEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+restaurants+Kauai+south+Shore"
+    },
+    {
+      "block_position": 1,
+      "query": "Best Kauai restaurants",
+      "link": "https://www.google.com/search?sca_esv=b05b86de3d8e65b9&hl=en&gl=us&q=Best+Kauai+restaurants&sa=X&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQ1QJ6BAhVEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+Kauai+restaurants"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "Kauai restaurant recommendations",
+      "link": "https://www.reddit.com/r/VisitingHawaii/comments/1rkpsou/kauai_restaurant_recommendations/",
+      "date": "2 months ago",
+      "extensions": [
+        "r/VisitingHawaii",
+        "9 comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.reddit.com/r/VisitingHawaii/comments/1rkpsou/kauai_restaurant_recommendations/"
+        }
+      ]
+    },
+    {
+      "title": "Which Fancy Restaurant with the view? - Kauai Forum",
+      "link": "https://www.tripadvisor.com/ShowTopic-g29218-i304-k14977494-Which_Fancy_Restaurant_with_the_view-Kauai_Hawaii.html",
+      "date": "1 year ago",
+      "source": "Tripadvisor",
+      "answers": [
+        {
+          "link": "https://www.tripadvisor.com/ShowTopic-g29218-i304-k14977494-Which_Fancy_Restaurant_with_the_view-Kauai_Hawaii.html"
+        }
+      ]
+    },
+    {
+      "title": "Must-visit restaurants? - Kauai Forum",
+      "link": "https://www.tripadvisor.com/ShowTopic-g29218-i304-k14099418-o10-Must_visit_restaurants-Kauai_Hawaii.html",
+      "date": "3 years ago",
+      "source": "Tripadvisor",
+      "answers": [
+        {
+          "link": "https://www.tripadvisor.com/ShowTopic-g29218-i304-k14099418-o10-Must_visit_restaurants-Kauai_Hawaii.html"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+kauai+hotel+dining&sca_esv=b05b86de3d8e65b9&hl=en&gl=us&ei=7O4NaoPNC6rk5NoPl8_GwQQ&start=10&sa=N&sstk=AU9db-CioTc3femE31rizEARNeIp51xw_mVVG2lh-JVPbB_FYJ9w_msoDL103iDhiFnMIUuzpeITcyIPbllIe7WaF6iDjttOarN1_w&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQ8NMDegQISxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+kauai+hotel+dining&sca_esv=b05b86de3d8e65b9&hl=en&gl=us&ei=7O4NaoPNC6rk5NoPl8_GwQQ&start=10&sa=N&sstk=AU9db-CioTc3femE31rizEARNeIp51xw_mVVG2lh-JVPbB_FYJ9w_msoDL103iDhiFnMIUuzpeITcyIPbllIe7WaF6iDjttOarN1_w&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQ8tMDegQISxAE",
+      "3": "https://www.google.com/search?q=best+kauai+hotel+dining&sca_esv=b05b86de3d8e65b9&hl=en&gl=us&ei=7O4NaoPNC6rk5NoPl8_GwQQ&start=20&sa=N&sstk=AU9db-CioTc3femE31rizEARNeIp51xw_mVVG2lh-JVPbB_FYJ9w_msoDL103iDhiFnMIUuzpeITcyIPbllIe7WaF6iDjttOarN1_w&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQ8tMDegQISxAG",
+      "4": "https://www.google.com/search?q=best+kauai+hotel+dining&sca_esv=b05b86de3d8e65b9&hl=en&gl=us&ei=7O4NaoPNC6rk5NoPl8_GwQQ&start=30&sa=N&sstk=AU9db-CioTc3femE31rizEARNeIp51xw_mVVG2lh-JVPbB_FYJ9w_msoDL103iDhiFnMIUuzpeITcyIPbllIe7WaF6iDjttOarN1_w&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQ8tMDegQISxAI",
+      "5": "https://www.google.com/search?q=best+kauai+hotel+dining&sca_esv=b05b86de3d8e65b9&hl=en&gl=us&ei=7O4NaoPNC6rk5NoPl8_GwQQ&start=40&sa=N&sstk=AU9db-CioTc3femE31rizEARNeIp51xw_mVVG2lh-JVPbB_FYJ9w_msoDL103iDhiFnMIUuzpeITcyIPbllIe7WaF6iDjttOarN1_w&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQ8tMDegQISxAK",
+      "6": "https://www.google.com/search?q=best+kauai+hotel+dining&sca_esv=b05b86de3d8e65b9&hl=en&gl=us&ei=7O4NaoPNC6rk5NoPl8_GwQQ&start=50&sa=N&sstk=AU9db-CioTc3femE31rizEARNeIp51xw_mVVG2lh-JVPbB_FYJ9w_msoDL103iDhiFnMIUuzpeITcyIPbllIe7WaF6iDjttOarN1_w&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQ8tMDegQISxAM",
+      "7": "https://www.google.com/search?q=best+kauai+hotel+dining&sca_esv=b05b86de3d8e65b9&hl=en&gl=us&ei=7O4NaoPNC6rk5NoPl8_GwQQ&start=60&sa=N&sstk=AU9db-CioTc3femE31rizEARNeIp51xw_mVVG2lh-JVPbB_FYJ9w_msoDL103iDhiFnMIUuzpeITcyIPbllIe7WaF6iDjttOarN1_w&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQ8tMDegQISxAO",
+      "8": "https://www.google.com/search?q=best+kauai+hotel+dining&sca_esv=b05b86de3d8e65b9&hl=en&gl=us&ei=7O4NaoPNC6rk5NoPl8_GwQQ&start=70&sa=N&sstk=AU9db-CioTc3femE31rizEARNeIp51xw_mVVG2lh-JVPbB_FYJ9w_msoDL103iDhiFnMIUuzpeITcyIPbllIe7WaF6iDjttOarN1_w&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQ8tMDegQISxAQ",
+      "9": "https://www.google.com/search?q=best+kauai+hotel+dining&sca_esv=b05b86de3d8e65b9&hl=en&gl=us&ei=7O4NaoPNC6rk5NoPl8_GwQQ&start=80&sa=N&sstk=AU9db-CioTc3femE31rizEARNeIp51xw_mVVG2lh-JVPbB_FYJ9w_msoDL103iDhiFnMIUuzpeITcyIPbllIe7WaF6iDjttOarN1_w&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQ8tMDegQISxAS",
+      "10": "https://www.google.com/search?q=best+kauai+hotel+dining&sca_esv=b05b86de3d8e65b9&hl=en&gl=us&ei=7O4NaoPNC6rk5NoPl8_GwQQ&start=90&sa=N&sstk=AU9db-CioTc3femE31rizEARNeIp51xw_mVVG2lh-JVPbB_FYJ9w_msoDL103iDhiFnMIUuzpeITcyIPbllIe7WaF6iDjttOarN1_w&ved=2ahUKEwiD863XsciUAxUqMlkFHZenMUgQ8tMDegQISxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=best+kauai+hotel+dining&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=best+kauai+hotel+dining&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=best+kauai+hotel+dining&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=best+kauai+hotel+dining&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=best+kauai+hotel+dining&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=best+kauai+hotel+dining&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=best+kauai+hotel+dining&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=best+kauai+hotel+dining&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=best+kauai+hotel+dining&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=best+kauai+hotel+dining&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=best+kauai+hotel+dining&start=90"
+    }
+  }
+}

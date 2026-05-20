@@ -1,0 +1,488 @@
+{
+  "search_metadata": {
+    "id": "6a0deeea4a0898120227ef07",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/pODoz5Y79-BOlJVrIzLBaw/6a0deeea4a0898120227ef07.json",
+    "pixel_position_endpoint": "https://serpapi.com/searches/pODoz5Y79-BOlJVrIzLBaw/6a0deeea4a0898120227ef07.json_with_pixel_position",
+    "created_at": "2026-05-20 17:27:06 UTC",
+    "processed_at": "2026-05-20 17:27:06 UTC",
+    "google_url": "https://www.google.com/search?q=kauai+oceanfront+hotel&oq=kauai+oceanfront+hotel&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/pODoz5Y79-BOlJVrIzLBaw/6a0deeea4a0898120227ef07.html",
+    "total_time_taken": 1.77
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "kauai oceanfront hotel",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "kauai oceanfront hotel",
+    "total_results": 136,
+    "time_taken_displayed": 0.65,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "answer_box": {
+    "type": "hotels",
+    "query": {
+      "location": "Kauai, Hawaii",
+      "days": [
+        "Tue, May 26",
+        "Wed, May 27"
+      ],
+      "people": 2
+    },
+    "hotels": [
+      {
+        "link": "https://www.google.com/travel/search?g2lb=4965990,72471280,72560029,72573224,72647020,72686036,72803964,72882230,73059275,73064764,121608705&hl=en-US&gl=us&ssta=1&q=kauai+oceanfront+hotel&ts=CAESCgoCCAMKAggDEAAaHBIaEhQKBwjqDxAFGBoSBwjqDxAFGBsYATICEAAqCgoICgELOgNVU0Q&qs=CAEyE0Nnb0loOFhEaWZ1c291bHlFQUU4CkIJEbbtSVd2GcYcQgkRAvRvR3Xws2BCCRG37KjU_uIBKVpPMk2qAUoQASoJIgVob3RlbCgAMh8QASIbMk93w3peXfy-I2uh0LDAV3zSBp355j3GXiLLMhoQAiIWa2F1YWkgb2NlYW5mcm9udCBob3RlbA&ap=aAG6AQhvdmVydmlldw&ictx=111&ved=1t:196188",
+        "image": "https://serpapi.com/searches/6a0deeea4a0898120227ef07/images/ysOp-WbJgAp5mJJi0R9kwKK-UsnwbEDdFGe9D2cEgVE.jpeg",
+        "price": "$346",
+        "title": "Sheraton Kauai Resort",
+        "rating": 4.3,
+        "reviews": 2262,
+        "features": [
+          "Beach access",
+          "Pool"
+        ]
+      },
+      {
+        "link": "https://www.google.com/travel/search?g2lb=4965990,72471280,72560029,72573224,72647020,72686036,72803964,72882230,73059275,73064764,121608705&hl=en-US&gl=us&ssta=1&q=kauai+oceanfront+hotel&ts=CAESCgoCCAMKAggDEAAaHBIaEhQKBwjqDxAFGBoSBwjqDxAFGBsYATICEAAqCgoICgELOgNVU0Q&qs=CAEyE0Nnb0k3YW45OHEtODRQeExFQUU4CkIJEbbtSVd2GcYcQgkRAvRvR3Xws2BCCRG37KjU_uIBKVpPMk2qAUoQASoJIgVob3RlbCgAMh8QASIbMk93w3peXfy-I2uh0LDAV3zSBp355j3GXiLLMhoQAiIWa2F1YWkgb2NlYW5mcm9udCBob3RlbA&ap=aAG6AQhvdmVydmlldw&ictx=111&ved=1t:196188",
+        "image": "https://serpapi.com/searches/6a0deeea4a0898120227ef07/images/ysOp-WbJgAp5mJJi0R9kwBaNpK1JlKkL8phlxVhuInU.jpeg",
+        "price": "$372",
+        "title": "OUTRIGGER Kauai Beach Resort & Spa",
+        "rating": 4.2,
+        "reviews": 3952,
+        "features": [
+          "Beach access",
+          "Eco-certified"
+        ]
+      },
+      {
+        "link": "https://www.google.com/travel/search?g2lb=4965990,72471280,72560029,72573224,72647020,72686036,72803964,72882230,73059275,73064764,121608705&hl=en-US&gl=us&ssta=1&q=kauai+oceanfront+hotel&ts=CAESCgoCCAMKAggDEAAaHBIaEhQKBwjqDxAFGBoSBwjqDxAFGBsYATICEAAqCgoICgELOgNVU0Q&qs=CAEyFENnc0l6ZldlbU5lQTJyeXJBUkFCOApCCRG27UlXdhnGHEIJEQL0b0d18LNgQgkRt-yo1P7iASlaTzJNqgFKEAEqCSIFaG90ZWwoADIfEAEiGzJPd8N6Xl38viNrodCwwFd80gad-eY9xl4iyzIaEAIiFmthdWFpIG9jZWFuZnJvbnQgaG90ZWw&ap=aAG6AQhvdmVydmlldw&ictx=111&ved=1t:196188",
+        "image": "https://serpapi.com/searches/6a0deeea4a0898120227ef07/images/ysOp-WbJgAp5mJJi0R9kwL20BAaMrq_w63h2ptPLmFU.jpeg",
+        "price": "$390",
+        "title": "Marriott's Kaua'i Beach Club",
+        "rating": 4.4,
+        "reviews": 2124,
+        "features": [
+          "Beach access",
+          "Spa"
+        ]
+      }
+    ],
+    "map_results": [
+      {
+        "price": "$349",
+        "latitude": "21.88229",
+        "longitude": "-159.47603"
+      },
+      {
+        "price": "$434",
+        "latitude": "21.96271",
+        "longitude": "-159.35020"
+      },
+      {
+        "price": "$390",
+        "latitude": "21.96210",
+        "longitude": "-159.34991"
+      },
+      {
+        "price": "$372",
+        "latitude": "22.01016",
+        "longitude": "-159.33859"
+      },
+      {
+        "price": "$346",
+        "latitude": "21.87682",
+        "longitude": "-159.46206"
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Ko'a Kea Resort | Poipu Beach Hotels | Official Site",
+      "link": "https://www.koakea.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.koakea.com/&ved=2ahUKEwiLu8DWsciUAxVrSDABHZw5EVkQFnoECBcQAQ",
+      "displayed_link": "https://www.koakea.com",
+      "favicon": "https://serpapi.com/searches/6a0deeea4a0898120227ef07/images/IyUGgPDpGD9Q8yBhhSlPHbypM83yPJ8DEc7SYSXfy4E.png",
+      "snippet": "Welcome to Ko'a Kea Resort on Poipu Beach, a Poipu Beach hotel home to an oceanfront spa, dining, and experiences - Click here for more!",
+      "snippet_highlighted_words": [
+        "hotel",
+        "oceanfront"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Welcome to Ko'a Kea Resort on Poipu Beach, a Poipu Beach hotel home to an oceanfront spa, dining, and experiences - Click here for more!",
+          "source_info_link": "https://www.koakea.com/",
+          "icon": "https://serpapi.com/searches/6a0deeea4a0898120227ef07/images/IyUGgPDpGD9Q8yBhhSlPHV0esCQZZ3CKEQAwjG1V6_xh4Jb0vDHwPkxrEeD4dJXD.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.koakea.com/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.koakea.com%2F",
+      "source": "Ko'a Kea Resort on Poipu Beach"
+    },
+    {
+      "position": 2,
+      "title": "Kauai resort or hotel close to swimming beach?",
+      "link": "https://www.reddit.com/r/VisitingHawaii/comments/1ebs8ca/kauai_resort_or_hotel_close_to_swimming_beach/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/VisitingHawaii/comments/1ebs8ca/kauai_resort_or_hotel_close_to_swimming_beach/&ved=2ahUKEwiLu8DWsciUAxVrSDABHZw5EVkQFnoECBoQAQ",
+      "displayed_link": "20+ comments \u00b7 1 year ago",
+      "favicon": "https://serpapi.com/searches/6a0deeea4a0898120227ef07/images/IyUGgPDpGD9Q8yBhhSlPHUkGectwavhSP9W0V1FOrZs.png",
+      "snippet": "Hi friends, I did a search but didn\u2019t find any hits for this exact question: where to stay on Kauai with very easy access to a swimming beach? ...",
+      "about_this_result": {
+        "source": {
+          "description": "Sheraton Poipu, Waiohai, Kiahuna Plantation, even Koa Kea are much better and safer. Sonesta in Lihue would be good as well.",
+          "source_info_link": "https://www.reddit.com/r/VisitingHawaii/comments/1ebs8ca/kauai_resort_or_hotel_close_to_swimming_beach/",
+          "icon": "https://serpapi.com/searches/6a0deeea4a0898120227ef07/images/IyUGgPDpGD9Q8yBhhSlPHegxRLL4Na_GcD3xE2bL1wdn_2Voop51x_cMdOMfqe2_.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/VisitingHawaii/comments/1ebs8ca/kauai_resort_or_hotel_close_to_swimming_beach/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FVisitingHawaii%2Fcomments%2F1ebs8ca%2Fkauai_resort_or_hotel_close_to_swimming_beach%2F",
+      "source": "Reddit \u00b7 r/VisitingHawaii"
+    },
+    {
+      "position": 3,
+      "title": "Oceanfront - Kauai Beach Resort Hotel",
+      "link": "https://www.outrigger.com/hawaii/kauai/outrigger-kauai-beach-resort-spa/rooms-suites/oceanfront",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.outrigger.com/hawaii/kauai/outrigger-kauai-beach-resort-spa/rooms-suites/oceanfront&ved=2ahUKEwiLu8DWsciUAxVrSDABHZw5EVkQFnoECBYQAQ",
+      "displayed_link": "https://www.outrigger.com \u203a ... \u203a Rooms & Suites",
+      "favicon": "https://serpapi.com/searches/6a0deeea4a0898120227ef07/images/IyUGgPDpGD9Q8yBhhSlPHVDCGfnjcYtx9-jcg5hvrco.png",
+      "snippet": "Standard guest room features ocean front view, traditional style room d\u00e9cor, private lanai. The Standard Guestrooms (320 sq.ft.) features traditional style room ...",
+      "snippet_highlighted_words": [
+        "Standard guest room features ocean front view"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Standard guest room features ocean front view, traditional style room d\u00e9cor, private lanai. The Standard Guestrooms (320 sq.ft.) features traditional style room ...",
+          "source_info_link": "https://www.outrigger.com/hawaii/kauai/outrigger-kauai-beach-resort-spa/rooms-suites/oceanfront",
+          "icon": "https://serpapi.com/searches/6a0deeea4a0898120227ef07/images/IyUGgPDpGD9Q8yBhhSlPHapMsKCYOXubTmIxaAphxZ04jVaekbXS1H-W5xSLbsKZ.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.outrigger.com/hawaii/kauai/outrigger-kauai-beach-resort-spa/rooms-suites/oceanfront&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.outrigger.com%2Fhawaii%2Fkauai%2Foutrigger-kauai-beach-resort-spa%2Frooms-suites%2Foceanfront",
+      "source": "OUTRIGGER Resorts & Hotels"
+    },
+    {
+      "position": 4,
+      "title": "The Best Oceanfront Hotels in Kauai, HI from $230",
+      "link": "https://www.expedia.com/Kauai-Hotels-Oceanfront-Hotels.0-0-d180075-tOceanfrontHotels.Travel-Guide-Filter-Hotels",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.expedia.com/Kauai-Hotels-Oceanfront-Hotels.0-0-d180075-tOceanfrontHotels.Travel-Guide-Filter-Hotels&ved=2ahUKEwiLu8DWsciUAxVrSDABHZw5EVkQFnoECDYQAQ",
+      "displayed_link": "https://www.expedia.com \u203a ... \u203a Hawaii",
+      "favicon": "https://serpapi.com/searches/6a0deeea4a0898120227ef07/images/IyUGgPDpGD9Q8yBhhSlPHafU2RPy5S0Z3dhREMez59o.png",
+      "snippet": "Looking for the shortest distance between you and the ocean? Look for an oceanfront room in one of our 331 hotels with an ocean view in Kauai, HI.",
+      "snippet_highlighted_words": [
+        "Look for an oceanfront room in one of our 331 hotels with an ocean view"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Looking for the shortest distance between you and the ocean? Look for an oceanfront room in one of our 331 hotels with an ocean view in Kauai, HI.",
+          "source_info_link": "https://www.expedia.com/Kauai-Hotels-Oceanfront-Hotels.0-0-d180075-tOceanfrontHotels.Travel-Guide-Filter-Hotels",
+          "icon": "https://serpapi.com/searches/6a0deeea4a0898120227ef07/images/IyUGgPDpGD9Q8yBhhSlPHe-g1YqWwsuu1JY6EnL9o7ETUinJegur5nofZjtmyRAN.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.expedia.com/Kauai-Hotels-Oceanfront-Hotels.0-0-d180075-tOceanfrontHotels.Travel-Guide-Filter-Hotels&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.expedia.com%2FKauai-Hotels-Oceanfront-Hotels.0-0-d180075-tOceanfrontHotels.Travel-Guide-Filter-Hotels",
+      "source": "Expedia"
+    },
+    {
+      "position": 5,
+      "title": "Hotels on Kauai, United States",
+      "link": "https://www.booking.com/region/us/kauai-hawaii.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.booking.com/region/us/kauai-hawaii.html&ved=2ahUKEwiLu8DWsciUAxVrSDABHZw5EVkQFnoECDQQAQ",
+      "displayed_link": "https://www.booking.com \u203a ... \u203a Hawaii (HI)",
+      "favicon": "https://serpapi.com/searches/6a0deeea4a0898120227ef07/images/IyUGgPDpGD9Q8yBhhSlPHcxKyclrToDCQgASrH8dqh8.png",
+      "snippet": "Located in Kapaa, Kauai Shores Hotel is an oceanfront hotel that features a private beach, a beachfront restaurant, and a 6-acre tropical courtyard complete ...",
+      "snippet_highlighted_words": [
+        "Kauai Shores Hotel"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Located in Kapaa, Kauai Shores Hotel is an oceanfront hotel that features a private beach, a beachfront restaurant, and a 6-acre tropical courtyard complete ...",
+          "source_info_link": "https://www.booking.com/region/us/kauai-hawaii.html",
+          "icon": "https://serpapi.com/searches/6a0deeea4a0898120227ef07/images/IyUGgPDpGD9Q8yBhhSlPHYr-GQ0ixs84GLO8-p3E8_4gf58jHqdgY_wIm8Lxmby8.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.booking.com/region/us/kauai-hawaii.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.booking.com%2Fregion%2Fus%2Fkauai-hawaii.html",
+      "source": "Booking.com"
+    },
+    {
+      "position": 6,
+      "title": "THE 10 BEST Kauai Beach Resorts 2026 (with Prices)",
+      "link": "https://www.tripadvisor.com/HotelsList-Kauai-Beach-Resorts-zfp132008.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tripadvisor.com/HotelsList-Kauai-Beach-Resorts-zfp132008.html&ved=2ahUKEwiLu8DWsciUAxVrSDABHZw5EVkQFnoECDUQAQ",
+      "displayed_link": "https://www.tripadvisor.com \u203a ... \u203a Kauai \u203a Kauai Hotels",
+      "favicon": "https://serpapi.com/searches/6a0deeea4a0898120227ef07/images/IyUGgPDpGD9Q8yBhhSlPHbTAWTZpoNZuwIdE0CjzbZs.png",
+      "snippet": "1. Ko'a Kea Resort On Poipu Beach \u00b7 2. Kauai Shores Hotel \u00b7 3. Sheraton Kauai Coconut Beach Resort \u00b7 4. Grand Hyatt Kauai Resort & Spa \u00b7 5. The ...",
+      "snippet_highlighted_words": [
+        "1. Ko'a Kea Resort On Poipu Beach"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "1. Ko'a Kea Resort On Poipu Beach \u00b7 2. Kauai Shores Hotel \u00b7 3. Sheraton Kauai Coconut Beach Resort \u00b7 4. Grand Hyatt Kauai Resort & Spa \u00b7 5. The ...",
+          "source_info_link": "https://www.tripadvisor.com/HotelsList-Kauai-Beach-Resorts-zfp132008.html",
+          "icon": "https://serpapi.com/searches/6a0deeea4a0898120227ef07/images/IyUGgPDpGD9Q8yBhhSlPHTld_wH1HOHi7yuNsE0o-JsJIApC52yZdOrUg2cXS_P7.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.tripadvisor.com/HotelsList-Kauai-Beach-Resorts-zfp132008.html&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.tripadvisor.com%2FHotelsList-Kauai-Beach-Resorts-zfp132008.html",
+      "source": "Tripadvisor"
+    },
+    {
+      "position": 7,
+      "title": "Grand Hyatt Kauai Resort & Spa",
+      "link": "https://www.hyatt.com/grand-hyatt/en-US/kauai-grand-hyatt-kauai-resort-and-spa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hyatt.com/grand-hyatt/en-US/kauai-grand-hyatt-kauai-resort-and-spa&ved=2ahUKEwiLu8DWsciUAxVrSDABHZw5EVkQFnoECDoQAQ",
+      "displayed_link": "https://www.hyatt.com \u203a grand-hyatt \u203a en-US \u203a kauai-g...",
+      "favicon": "https://serpapi.com/searches/6a0deeea4a0898120227ef07/images/IyUGgPDpGD9Q8yBhhSlPHZym2ewDFTFaH_XND3bY0B0.png",
+      "snippet": "This eco-friendly, luxury beachfront oasis with lush gardens and acres of pools offers ocean view dining, hotel rooms with private lanais, championship golf ...",
+      "snippet_highlighted_words": [
+        "luxury beachfront oasis"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.5,
+            "reviews": 4131
+          },
+          "extensions": [
+            "4.5(4,131)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "This eco-friendly, luxury beachfront oasis with lush gardens and acres of pools offers ocean view dining, hotel rooms with private lanais, championship golf ...",
+          "source_info_link": "https://www.hyatt.com/grand-hyatt/en-US/kauai-grand-hyatt-kauai-resort-and-spa",
+          "icon": "https://serpapi.com/searches/6a0deeea4a0898120227ef07/images/IyUGgPDpGD9Q8yBhhSlPHdA12ftUpn03bIk8Ipb0hKIh-EQcdjdnqVph-4f2pppc.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.hyatt.com/grand-hyatt/en-US/kauai-grand-hyatt-kauai-resort-and-spa&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.hyatt.com%2Fgrand-hyatt%2Fen-US%2Fkauai-grand-hyatt-kauai-resort-and-spa",
+      "source": "Hyatt"
+    },
+    {
+      "position": 8,
+      "title": "Where to Stay in Kauai: The Best Areas and Hotels",
+      "link": "https://www.neverendingvoyage.com/where-to-stay-in-kauai/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.neverendingvoyage.com/where-to-stay-in-kauai/&ved=2ahUKEwiLu8DWsciUAxVrSDABHZw5EVkQFnoECEMQAQ",
+      "displayed_link": "https://www.neverendingvoyage.com \u203a where-to-stay-i...",
+      "favicon": "https://serpapi.com/searches/6a0deeea4a0898120227ef07/images/IyUGgPDpGD9Q8yBhhSlPHf5fGSTK1TIiJNfEwVsej2o.png",
+      "date": "Feb 11, 2026",
+      "snippet": "Koa Kea Hotel & Resort. Another stylish boutique resort with an oceanfront location between Kiahuna and Poipu beaches is Koa Kea Hotel & Resort.",
+      "snippet_highlighted_words": [
+        "Koa Kea Hotel & Resort"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Where to Stay on the South...",
+            "link": "https://www.neverendingvoyage.com/where-to-stay-in-kauai/#wheretostayonthesouthshoreofkauai"
+          },
+          {
+            "title": "Where to Stay on the North...",
+            "link": "https://www.neverendingvoyage.com/where-to-stay-in-kauai/#wheretostayonthenorthshoreofkauai"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Koa Kea Hotel & Resort. Another stylish boutique resort with an oceanfront location between Kiahuna and Poipu beaches is Koa Kea Hotel & Resort.",
+          "source_info_link": "https://www.neverendingvoyage.com/where-to-stay-in-kauai/",
+          "icon": "https://serpapi.com/searches/6a0deeea4a0898120227ef07/images/IyUGgPDpGD9Q8yBhhSlPHRyzEC4V7C7it-T5jqvFZOVv2HTeREfFp2n24Q7-689O.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.neverendingvoyage.com/where-to-stay-in-kauai/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.neverendingvoyage.com%2Fwhere-to-stay-in-kauai%2F",
+      "source": "Never Ending Voyage"
+    },
+    {
+      "position": 9,
+      "title": "10 Amazing Kauai Hotels on the beach -",
+      "link": "https://kauaimyway.com/kauai-hotels-on-the-beach/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kauaimyway.com/kauai-hotels-on-the-beach/&ved=2ahUKEwiLu8DWsciUAxVrSDABHZw5EVkQFnoECDkQAQ",
+      "displayed_link": "https://kauaimyway.com \u203a kauai-hotels-on-the-beach",
+      "favicon": "https://serpapi.com/searches/6a0deeea4a0898120227ef07/images/IyUGgPDpGD9Q8yBhhSlPHX9MXD5olZR4KBlrxJ7Xdms.png",
+      "snippet": "Ko'a Kea Resort on Poipu Beach. As a small boutique hotel, Ko'a Kea offers both ocean view and ocean front guest rooms with private lanais. It's less busy than ...",
+      "snippet_highlighted_words": [
+        "Ko'a Kea Resort on Poipu Beach"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Ko'a Kea Resort on Poipu Beach. As a small boutique hotel, Ko'a Kea offers both ocean view and ocean front guest rooms with private lanais. It's less busy than ...",
+          "source_info_link": "https://kauaimyway.com/kauai-hotels-on-the-beach/",
+          "icon": "https://serpapi.com/searches/6a0deeea4a0898120227ef07/images/IyUGgPDpGD9Q8yBhhSlPHcEIVqg_RKxA4paHsC0nYcsgWZ1Ge1EGcHr5bP1EowwC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://kauaimyway.com/kauai-hotels-on-the-beach/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fkauaimyway.com%2Fkauai-hotels-on-the-beach%2F",
+      "source": "Kauai My Way"
+    },
+    {
+      "position": 10,
+      "title": "Luxury Resorts in Kauai",
+      "link": "https://www.thehotelguru.com/best-hotels-in/united-states-of-america/kauai/luxury-resorts",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thehotelguru.com/best-hotels-in/united-states-of-america/kauai/luxury-resorts&ved=2ahUKEwiLu8DWsciUAxVrSDABHZw5EVkQFnoECDgQAQ",
+      "displayed_link": "https://www.thehotelguru.com \u203a Kauai",
+      "favicon": "https://serpapi.com/searches/6a0deeea4a0898120227ef07/images/IyUGgPDpGD9Q8yBhhSlPHdEcov4uzQJl90LO72t4AzY.png",
+      "snippet": "A new luxury oceanfront resort south of Lihue. Elegant contemporary rooms feature sea-inspired interiors, terraces with plunge pools and ocean views. Sip on ...",
+      "snippet_highlighted_words": [
+        "A new luxury oceanfront resort south of Lihue"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A new luxury oceanfront resort south of Lihue. Elegant contemporary rooms feature sea-inspired interiors, terraces with plunge pools and ocean views. Sip on ...",
+          "source_info_link": "https://www.thehotelguru.com/best-hotels-in/united-states-of-america/kauai/luxury-resorts",
+          "icon": "https://serpapi.com/searches/6a0deeea4a0898120227ef07/images/IyUGgPDpGD9Q8yBhhSlPHYGtdE51137DQZwTfVqmAfb8_rkoBZBBSU4-keh2V2Cv.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.thehotelguru.com/best-hotels-in/united-states-of-america/kauai/luxury-resorts&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.thehotelguru.com%2Fbest-hotels-in%2Funited-states-of-america%2Fkauai%2Fluxury-resorts",
+      "source": "The Hotel Guru"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Best Kauai hotels on the beach",
+      "link": "https://www.google.com/search?sca_esv=b05b86de3d8e65b9&hl=en&gl=us&q=Best+Kauai+hotels+on+the+beach&sa=X&ved=2ahUKEwiLu8DWsciUAxVrSDABHZw5EVkQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+Kauai+hotels+on+the+beach"
+    },
+    {
+      "block_position": 1,
+      "query": "Best hotels in Poipu Kauai",
+      "link": "https://www.google.com/search?sca_esv=b05b86de3d8e65b9&hl=en&gl=us&q=Best+hotels+in+Poipu+Kauai&sa=X&ved=2ahUKEwiLu8DWsciUAxVrSDABHZw5EVkQ1QJ6BAhOEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+hotels+in+Poipu+Kauai"
+    },
+    {
+      "block_position": 1,
+      "query": "Poipu beach hotels oceanfront",
+      "link": "https://www.google.com/search?sca_esv=b05b86de3d8e65b9&hl=en&gl=us&q=Poipu+beach+hotels+oceanfront&sa=X&ved=2ahUKEwiLu8DWsciUAxVrSDABHZw5EVkQ1QJ6BAhSEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Poipu+beach+hotels+oceanfront"
+    },
+    {
+      "block_position": 1,
+      "query": "Kauai oceanfront hotel deals",
+      "link": "https://www.google.com/search?sca_esv=b05b86de3d8e65b9&hl=en&gl=us&q=Kauai+oceanfront+hotel+deals&sa=X&ved=2ahUKEwiLu8DWsciUAxVrSDABHZw5EVkQ1QJ6BAhTEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kauai+oceanfront+hotel+deals"
+    },
+    {
+      "block_position": 1,
+      "query": "Best hotels in Kauai",
+      "link": "https://www.google.com/search?sca_esv=b05b86de3d8e65b9&hl=en&gl=us&q=Best+hotels+in+Kauai&sa=X&ved=2ahUKEwiLu8DWsciUAxVrSDABHZw5EVkQ1QJ6BAhQEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+hotels+in+Kauai"
+    },
+    {
+      "block_position": 1,
+      "query": "Kauai Resorts all inclusive",
+      "link": "https://www.google.com/search?sca_esv=b05b86de3d8e65b9&hl=en&gl=us&q=Kauai+Resorts+all+inclusive&sa=X&ved=2ahUKEwiLu8DWsciUAxVrSDABHZw5EVkQ1QJ6BAhPEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kauai+Resorts+all+inclusive"
+    },
+    {
+      "block_position": 1,
+      "query": "5 star hotels in Kauai",
+      "link": "https://www.google.com/search?sca_esv=b05b86de3d8e65b9&hl=en&gl=us&q=5+star+hotels+in+Kauai&sa=X&ved=2ahUKEwiLu8DWsciUAxVrSDABHZw5EVkQ1QJ6BAhREAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=5+star+hotels+in+Kauai"
+    },
+    {
+      "block_position": 1,
+      "query": "Kauai Hotels on the beach all-inclusive",
+      "link": "https://www.google.com/search?sca_esv=b05b86de3d8e65b9&hl=en&gl=us&q=Kauai+Hotels+on+the+beach+all-inclusive&sa=X&ved=2ahUKEwiLu8DWsciUAxVrSDABHZw5EVkQ1QJ6BAhKEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Kauai+Hotels+on+the+beach+all-inclusive"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=kauai+oceanfront+hotel&sca_esv=b05b86de3d8e65b9&hl=en&gl=us&ei=6u4NaoueGOuQwbkPnPPEyAU&start=10&sa=N&sstk=AU9db-D4XmBQa3VB3kytXo6mAyAbuh-TSZXPLCWr63NeV4Hqm5h24nSgzIu2HQAC6ZHYTixBRSHvoJuO4x31em5c_cvPMwTxYJeP3g&ved=2ahUKEwiLu8DWsciUAxVrSDABHZw5EVkQ8NMDegQIMxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=kauai+oceanfront+hotel&sca_esv=b05b86de3d8e65b9&hl=en&gl=us&ei=6u4NaoueGOuQwbkPnPPEyAU&start=10&sa=N&sstk=AU9db-D4XmBQa3VB3kytXo6mAyAbuh-TSZXPLCWr63NeV4Hqm5h24nSgzIu2HQAC6ZHYTixBRSHvoJuO4x31em5c_cvPMwTxYJeP3g&ved=2ahUKEwiLu8DWsciUAxVrSDABHZw5EVkQ8tMDegQIMxAE",
+      "3": "https://www.google.com/search?q=kauai+oceanfront+hotel&sca_esv=b05b86de3d8e65b9&hl=en&gl=us&ei=6u4NaoueGOuQwbkPnPPEyAU&start=20&sa=N&sstk=AU9db-D4XmBQa3VB3kytXo6mAyAbuh-TSZXPLCWr63NeV4Hqm5h24nSgzIu2HQAC6ZHYTixBRSHvoJuO4x31em5c_cvPMwTxYJeP3g&ved=2ahUKEwiLu8DWsciUAxVrSDABHZw5EVkQ8tMDegQIMxAG",
+      "4": "https://www.google.com/search?q=kauai+oceanfront+hotel&sca_esv=b05b86de3d8e65b9&hl=en&gl=us&ei=6u4NaoueGOuQwbkPnPPEyAU&start=30&sa=N&sstk=AU9db-D4XmBQa3VB3kytXo6mAyAbuh-TSZXPLCWr63NeV4Hqm5h24nSgzIu2HQAC6ZHYTixBRSHvoJuO4x31em5c_cvPMwTxYJeP3g&ved=2ahUKEwiLu8DWsciUAxVrSDABHZw5EVkQ8tMDegQIMxAI",
+      "5": "https://www.google.com/search?q=kauai+oceanfront+hotel&sca_esv=b05b86de3d8e65b9&hl=en&gl=us&ei=6u4NaoueGOuQwbkPnPPEyAU&start=40&sa=N&sstk=AU9db-D4XmBQa3VB3kytXo6mAyAbuh-TSZXPLCWr63NeV4Hqm5h24nSgzIu2HQAC6ZHYTixBRSHvoJuO4x31em5c_cvPMwTxYJeP3g&ved=2ahUKEwiLu8DWsciUAxVrSDABHZw5EVkQ8tMDegQIMxAK",
+      "6": "https://www.google.com/search?q=kauai+oceanfront+hotel&sca_esv=b05b86de3d8e65b9&hl=en&gl=us&ei=6u4NaoueGOuQwbkPnPPEyAU&start=50&sa=N&sstk=AU9db-D4XmBQa3VB3kytXo6mAyAbuh-TSZXPLCWr63NeV4Hqm5h24nSgzIu2HQAC6ZHYTixBRSHvoJuO4x31em5c_cvPMwTxYJeP3g&ved=2ahUKEwiLu8DWsciUAxVrSDABHZw5EVkQ8tMDegQIMxAM",
+      "7": "https://www.google.com/search?q=kauai+oceanfront+hotel&sca_esv=b05b86de3d8e65b9&hl=en&gl=us&ei=6u4NaoueGOuQwbkPnPPEyAU&start=60&sa=N&sstk=AU9db-D4XmBQa3VB3kytXo6mAyAbuh-TSZXPLCWr63NeV4Hqm5h24nSgzIu2HQAC6ZHYTixBRSHvoJuO4x31em5c_cvPMwTxYJeP3g&ved=2ahUKEwiLu8DWsciUAxVrSDABHZw5EVkQ8tMDegQIMxAO",
+      "8": "https://www.google.com/search?q=kauai+oceanfront+hotel&sca_esv=b05b86de3d8e65b9&hl=en&gl=us&ei=6u4NaoueGOuQwbkPnPPEyAU&start=70&sa=N&sstk=AU9db-D4XmBQa3VB3kytXo6mAyAbuh-TSZXPLCWr63NeV4Hqm5h24nSgzIu2HQAC6ZHYTixBRSHvoJuO4x31em5c_cvPMwTxYJeP3g&ved=2ahUKEwiLu8DWsciUAxVrSDABHZw5EVkQ8tMDegQIMxAQ",
+      "9": "https://www.google.com/search?q=kauai+oceanfront+hotel&sca_esv=b05b86de3d8e65b9&hl=en&gl=us&ei=6u4NaoueGOuQwbkPnPPEyAU&start=80&sa=N&sstk=AU9db-D4XmBQa3VB3kytXo6mAyAbuh-TSZXPLCWr63NeV4Hqm5h24nSgzIu2HQAC6ZHYTixBRSHvoJuO4x31em5c_cvPMwTxYJeP3g&ved=2ahUKEwiLu8DWsciUAxVrSDABHZw5EVkQ8tMDegQIMxAS",
+      "10": "https://www.google.com/search?q=kauai+oceanfront+hotel&sca_esv=b05b86de3d8e65b9&hl=en&gl=us&ei=6u4NaoueGOuQwbkPnPPEyAU&start=90&sa=N&sstk=AU9db-D4XmBQa3VB3kytXo6mAyAbuh-TSZXPLCWr63NeV4Hqm5h24nSgzIu2HQAC6ZHYTixBRSHvoJuO4x31em5c_cvPMwTxYJeP3g&ved=2ahUKEwiLu8DWsciUAxVrSDABHZw5EVkQ8tMDegQIMxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=kauai+oceanfront+hotel&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=kauai+oceanfront+hotel&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=kauai+oceanfront+hotel&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=kauai+oceanfront+hotel&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=kauai+oceanfront+hotel&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=kauai+oceanfront+hotel&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=kauai+oceanfront+hotel&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=kauai+oceanfront+hotel&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=kauai+oceanfront+hotel&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=kauai+oceanfront+hotel&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=kauai+oceanfront+hotel&start=90"
+    }
+  }
+}
