@@ -1,0 +1,16 @@
+# OTA / paid intermediary domains we want to track on the brand SERP
+booking.com
+expedia.com
+hotels.com
+guestreservations.com
+agoda.com
+priceline.com
+kayak.com
+trivago.com
+tripadvisor.com
+orbitz.com
+travelocity.com
+hotwire.com
+hotelplanner.com
+reservations.com
+trip.com
