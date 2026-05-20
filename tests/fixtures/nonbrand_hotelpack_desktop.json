@@ -1,0 +1,20 @@
+{
+  "search_metadata": {"google_url": "https://www.google.com/search?q=kauai+oceanfront+hotel"},
+  "ads": [
+    {"position": 1, "title": "Expedia", "link": "https://www.expedia.com/x"}
+  ],
+  "inline_hotels": {
+    "hotels": [
+      {"name": "Sheraton Kauai Coconut Beach", "rate_per_night": {"lowest": "$259"}},
+      {"name": "Outrigger Waipouli Beach", "rate_per_night": {"lowest": "$279"}},
+      {"name": "Aston Islander on the Beach", "rate_per_night": {"lowest": "$199"}},
+      {"name": "Kauai Shores Hotel", "rate_per_night": {"lowest": "$189"}}
+    ]
+  },
+  "organic_results": [
+    {"position": 1, "title": "Best oceanfront kauai", "link": "https://www.cntraveler.com/x"},
+    {"position": 2, "title": "Travel + Leisure", "link": "https://www.travelandleisure.com/x"},
+    {"position": 3, "title": "Tripadvisor", "link": "https://www.tripadvisor.com/x"}
+  ],
+  "serpapi_pagination": {"serpapi_screenshot": "https://serpapi.com/z.png"}
+}

@@ -1,0 +1,17 @@
+{
+  "search_metadata": {"google_url": "https://www.google.com/search?q=best+kauai+hotel+dining"},
+  "ai_overview": {
+    "text_blocks": [{"snippet": "Top kauai hotel dining experiences include..."}],
+    "references": [
+      {"title": "Tripadvisor", "link": "https://www.tripadvisor.com/Restaurants-Kauai.html", "source": "tripadvisor.com"},
+      {"title": "OpenTable", "link": "https://www.opentable.com/kauai", "source": "opentable.com"}
+    ]
+  },
+  "ads": [],
+  "organic_results": [
+    {"position": 1, "title": "Tripadvisor best", "link": "https://www.tripadvisor.com/Restaurants-Kauai.html"},
+    {"position": 2, "title": "Yelp top hotel restaurants", "link": "https://www.yelp.com/search?find_desc=kauai+hotel"},
+    {"position": 3, "title": "Conde Nast", "link": "https://www.cntraveler.com/story/kauai"}
+  ],
+  "serpapi_pagination": {"serpapi_screenshot": "https://serpapi.com/y.png"}
+}

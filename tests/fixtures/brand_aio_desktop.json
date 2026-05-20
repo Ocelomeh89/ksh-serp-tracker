@@ -1,0 +1,40 @@
+{
+  "search_metadata": {
+    "google_url": "https://www.google.com/search?q=kauai+shores+hotel"
+  },
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "Kauai Shores Hotel is an oceanfront hotel located in Kapaa..."
+      }
+    ],
+    "references": [
+      {"title": "Kauai Shores Hotel - Official", "link": "https://www.kauaishoreshotel.com/", "source": "kauaishoreshotel.com"},
+      {"title": "Tripadvisor reviews", "link": "https://www.tripadvisor.com/Hotel_Review-Kauai_Shores.html", "source": "tripadvisor.com"},
+      {"title": "Booking listing", "link": "https://www.booking.com/hotel/us/kauai-shores.html", "source": "booking.com"}
+    ]
+  },
+  "ads": [
+    {"position": 1, "title": "Kauai Shores - Booking.com", "link": "https://www.booking.com/hotel/us/kauai-shores.html"},
+    {"position": 2, "title": "Kauai Shores Hotel - Expedia", "link": "https://www.expedia.com/Kauai-Shores-Hotel-h12345"},
+    {"position": 3, "title": "Best price - Hotels.com", "link": "https://www.hotels.com/ho123/kauai-shores"},
+    {"position": 4, "title": "Direct booking - Hotel Site", "link": "https://www.example-other.com/x"}
+  ],
+  "inline_hotels": {
+    "hotels": [
+      {"name": "Kauai Shores Hotel", "rate_per_night": {"lowest": "$189"}},
+      {"name": "Sheraton Kauai Coconut Beach", "rate_per_night": {"lowest": "$249"}},
+      {"name": "Aston Islander on the Beach", "rate_per_night": {"lowest": "$199"}}
+    ]
+  },
+  "organic_results": [
+    {"position": 1, "title": "Kauai Shores Hotel - Official Site", "link": "https://www.kauaishoreshotel.com/"},
+    {"position": 2, "title": "Booking.com Kauai Shores", "link": "https://www.booking.com/hotel/us/kauai-shores.html"},
+    {"position": 3, "title": "Tripadvisor", "link": "https://www.tripadvisor.com/Hotel_Review-Kauai_Shores.html"},
+    {"position": 4, "title": "Expedia", "link": "https://www.expedia.com/Kauai-Shores-Hotel-h12345"}
+  ],
+  "serpapi_pagination": {
+    "serpapi_screenshot": "https://serpapi.com/searches/abc123/screenshot.png"
+  }
+}

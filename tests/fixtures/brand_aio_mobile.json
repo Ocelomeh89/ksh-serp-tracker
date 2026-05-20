@@ -1,0 +1,19 @@
+{
+  "search_metadata": {"google_url": "https://www.google.com/search?q=kauai+shores+hotel"},
+  "ai_overview": {
+    "text_blocks": [{"snippet": "Kauai Shores Hotel..."}],
+    "references": [
+      {"title": "Tripadvisor", "link": "https://www.tripadvisor.com/x", "source": "tripadvisor.com"}
+    ]
+  },
+  "ads": [
+    {"position": 1, "title": "Booking", "link": "https://www.booking.com/x"},
+    {"position": 2, "title": "Expedia", "link": "https://www.expedia.com/x"}
+  ],
+  "organic_results": [
+    {"position": 1, "title": "Booking", "link": "https://www.booking.com/x"},
+    {"position": 2, "title": "Official", "link": "https://www.kauaishoreshotel.com/"},
+    {"position": 3, "title": "TA", "link": "https://www.tripadvisor.com/x"}
+  ],
+  "serpapi_pagination": {"serpapi_screenshot": "https://serpapi.com/x.png"}
+}
